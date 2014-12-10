@@ -1,5 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Gomexsi interaction dataset",
+  "citation": "http://gomexsi.tamucc.edu",
   "format": "gomexsi"
 }
