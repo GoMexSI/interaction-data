@@ -5879,7 +5879,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Maur.1,suborder Gammaridea,Gammaridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,1,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Maur.1,"suborder Reptantia, mysis",Decapoda,NA,NA,NA,mysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,1,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Maur.1,Phylum Chordata - Fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.998,NA,1,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Kinc.1,algae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.136,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Kinc.1,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.136,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Kinc.1,Family Sargassaceae,Sargassaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.593,NA,1,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Kinc.1,animal matter,Animalia ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.137,NA,0.5,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Kinc.1,Pteropoda,Thecosomata  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.017,NA,0.167,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
