@@ -3407,6 +3407,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 3f,Lcam.2,Squilla neglecta,Squilla neglecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 3f,Lcam.2,Dardanus sp.,Dardanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 3f,Lcam.2,Trachypenaeus constrictus,Trachypenaeus constrictus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4f,Clat.1,not identified,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study only looked at decapod crustaceans found in stomachs. Fish was noted to have food but no decapod crustaceans.,NA,NA,NA,NA
 4f,Eads.1,Pilumnus sp. (nr. P. sayi),Pilumnus sayi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,3,0.429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4f,Eads.1,Pseudomedaeus agassizi,Pseudomedaeus agassizi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,2,0.286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4f,Eads.1,Hexapanopeus paulensis,Hexapanopeus paulensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,1,0.143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3705,6 +3706,25 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 85s,Ssub.1,O. angulata,Ophiothrix angulata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,14,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85s,Ssub.1,A. pulchella,Amphiodia pulchella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,2,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85s,Ssub.1,unidentified echinoderm,Echinodermata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,NA,NA,NA,20,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85s,Apro.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Bcap.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Bbar.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Cfab.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Csed.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Dhol.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Haur.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Hgem.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Ksec.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Lnuc.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Lrho.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Lgri.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Mrub.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Oden.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Pacu.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Pvar.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Rsap.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Splu.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
+85s,Sspe.1,not identified,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study was on echinoderms as prey. Food present but not echinoderm so not identified,NA,NA,NA,NA
 59b,Anic.1,Pteropod,Thecosomata,NA,NA,Remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Anic.1,Copepod,Copepoda,NA,NA,Remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Hlep.1,Pleuromamma piseki,Pleuromamma piseki,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3916,8 +3936,8 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 59b,Mbon.1,Unidentified shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Mbon.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Mphe.1,unidentified fish ,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-59b,Pfer.1,Colonial tunicate,Urochordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-59b,Pfer.1,Haemulon aurolineatum,Haemulon aurolineatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59b,Pfur.1,Colonial tunicate,Urochordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59b,Pfur.1,Haemulon aurolineatum,Haemulon aurolineatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Rbis.1,Processa sp.,Processa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Rbis.1,Alpheid shrimp,Alpheidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 59b,Rbis.1,palaemonid shrimp,Palaemonetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3962,20 +3982,20 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 48m,Cneb.1,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,15,15,15,NA,NA,1,0.0031,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 48m,Cneb.1,Jingle shell,Heteranomia squamula,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,NA,NA,1,0.0031,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 48m,Cneb.1,Vegetation Unid. ,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,1,3,2,NA,NA,18,0.0561,NA,NA,4,0.2222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Unid. Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,NA,NA,NA,51,0.425,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Palaemonetes,Palaemonetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,NA,NA,NA,15,0.394736842,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Peneidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,NA,NA,NA,32,0.355555556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Crabs (Unid.),Pleocyemata,NA,NA,NA,NA,NA,NA,NA,NA,6,8,7,NA,NA,15,NA,NA,NA,10,0.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Crabs (Portunidae),Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,6,15,10.5,NA,NA,10,NA,NA,NA,6,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Fish (Unid.),Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,10,20,15,NA,NA,23,NA,NA,NA,15,0.6522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Fish (Sciaenidae),Sciaenidae,NA,NA,NA,NA,NA,NA,NA,NA,15,20,17.5,NA,NA,5,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Fish (mullet & minnows),Teleostei,NA,NA,NA,NA,NA,NA,NA,NA,10,20,15,NA,NA,11,NA,NA,NA,5,0.4545,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Gobie (Emerald),Ctenogobius smaragdus,NA,NA,NA,NA,NA,NA,NA,NA,25,25,25,NA,NA,2,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Squilla Shrimp,Squilla,NA,NA,NA,NA,NA,NA,NA,NA,30,30,30,NA,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Worms (Unid.),Annelida,NA,NA,NA,NA,NA,NA,NA,NA,5,15,10,NA,NA,25,NA,NA,NA,10,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Squid (Unid.),Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,15,15,15,NA,NA,3,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Grass (Unid.),Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-48m,Pcro.1,Digested Material ,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Unid. Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,120,NA,NA,NA,51,0.425,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Palaemonetes,Palaemonetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,NA,NA,NA,15,0.394736842,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Peneidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,90,NA,NA,NA,32,0.355555556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Crabs (Unid.),Pleocyemata,NA,NA,NA,NA,NA,NA,NA,NA,6,8,7,NA,NA,15,NA,NA,NA,10,0.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Crabs (Portunidae),Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,6,15,10.5,NA,NA,10,NA,NA,NA,6,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Fish (Unid.),Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,10,20,15,NA,NA,23,NA,NA,NA,15,0.6522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Fish (Sciaenidae),Sciaenidae,NA,NA,NA,NA,NA,NA,NA,NA,15,20,17.5,NA,NA,5,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Fish (mullet & minnows),Teleostei,NA,NA,NA,NA,NA,NA,NA,NA,10,20,15,NA,NA,11,NA,NA,NA,5,0.4545,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Gobie (Emerald),Ctenogobius smaragdus,NA,NA,NA,NA,NA,NA,NA,NA,25,25,25,NA,NA,2,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Squilla Shrimp,Squilla,NA,NA,NA,NA,NA,NA,NA,NA,30,30,30,NA,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Worms (Unid.),Annelida,NA,NA,NA,NA,NA,NA,NA,NA,5,15,10,NA,NA,25,NA,NA,NA,10,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Squid (Unid.),Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,15,15,15,NA,NA,3,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Grass (Unid.),Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48m,Soce.1,Digested Material ,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.1,palaemonetid shrimp,Palaemonidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7588,7 +7608,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4h,Uflo.7,Small amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Several,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.7,Hypleurochilus geminatus,Hypleurochilus geminatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.8,Hippolysmata wurdemanni,Hippolysmata wurdemanni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4h,Uflor.9,Hippolysmata wurdemanni,Hippolysmata wurdemanni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4h,Uflo.9,Hippolysmata wurdemanni,Hippolysmata wurdemanni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.10,Small fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,Probably Urophycis,NA,NA,NA,NA
 4h,Uflo.11,Serranus subligarius,Serranus subligarius,NA,NA,NA,NA,NA,NA,NA,SL,NA,NA,31,NA,NA,1,0.667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.11,Small amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7714,7 +7734,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 15h,Arad.1,A.scaber,Antennarius scaber,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15h,Arad.1,Unidentified fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15h,Cfla.1,Eel fragments,Anguilliformes,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-15h,Deph.1,Squilla empusa,Squilla empusa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15h,Daph.1,Squilla empusa,Squilla empusa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15h,Hmac.1,Lepophidium,Lepophidium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15h,Hmac.1,A. hepsetus,Anchoa hepsetus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 15h,Hmac.1,Trachypenaeus similis,Trachypenaeus similis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8520,6 +8540,8 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 13l,Lmic.1,Chironomidae larvae,Chironomidae ,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.0874,NA,NA,3,0.4286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 13l,Lmic.1,worms,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.029,NA,NA,NA,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 13l,Lmic.1,vegetable material,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13l,Poli.1,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13l,Dcep.1,not given,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 9n,Ccom.1,sting or whip ray spine,Myliobatiformes,NA,NA,spine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,spine embeded in the muscle at the corner of mouth,NA,NA,NA,NA
 9n,Clim.1,sting or whip ray spine,Myliobatiformes,NA,NA,spine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,spine embeded in the muscle at the corner of mouth,NA,NA,NA,NA
 9n,Cacr.1,sting or whip ray spine,Myliobatiformes,NA,NA,spine,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,spine embeded in the muscle at the corner of mouth,NA,NA,NA,NA
@@ -10004,20 +10026,20 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 35r,Bchr.5,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.5,mysids,Mysida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.5,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Bchr.5,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Bchr.5,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Bchr.6,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.6,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.6,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.6,mysids,Mysida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.6,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Bchr.6,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Bchr.6,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Bchr.7,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.7,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.7,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.7,mysids,Mysida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.7,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.7,polychaete,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Bchr.7,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Bchr.7,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Bchr.8,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.8,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.8,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10059,7 +10081,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 35r,Bchr.13,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.14,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.14,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Bchr.14,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Bchr.14,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Bchr.15,Hippolyte zostericola,Hippolyte zostericola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.874,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.15,Ambidexter symmetricus,Ambidexter symmetricus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Bchr.15,Periclimenes longicaudatus,Periclimenes longicaudatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10159,7 +10181,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 35r,Cmel.2,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.2,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.3,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.3,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.3,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.3,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.3,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10170,32 +10192,32 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 35r,Cmel.4,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.4,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.4,crustacean remains,Crustacea,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.5,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.5,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.5,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.5,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.5,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.5,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.5,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.6,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.6,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.6,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.6,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.6,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.6,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.7,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.7,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.7,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.7,polychaete,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.7,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.7,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.7,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.8,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.8,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.8,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.8,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.8,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.9,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.9,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.9,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.9,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.9,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Cmel.10,MS ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Cmel.10,MS,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""MS"" interpreted to be Miscellaneous",NA,NA,NA,NA
 35r,Cmel.10,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.10,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Cmel.10,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10312,33 +10334,33 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 35r,Uflo.4,miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.5,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.5,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.5,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.5,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.5,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.5,miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.6,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.6,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.6,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.6,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.6,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.6,miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.6,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.7,isopod,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.7,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.7,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.7,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.7,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.7,miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.7,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.8,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.8,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.8,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.9,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.9,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.9,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.10,gastropod,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.10,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.10,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.10,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.10,miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.11,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.11,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.11,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.11,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-35r,Uflo.12,OR ?,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35r,Uflo.12,crab,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prey name in text is ""OR"" thought to be a typo and interpreted as crab",NA,NA,NA,NA
 35r,Uflo.12,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.13,Hippolyte zostericola,Hippolyte zostericola,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.888,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 35r,Uflo.13,Periclimenes longicaudatus,Periclimenes longicaudatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
