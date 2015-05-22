@@ -12885,3 +12885,1042 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Sdum.1,Hemanthias vivanus,Hemanthias vivanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,"* Synodus sp, Prionotus sp, Hemanthias vivanus, Pronotogrammus martinicensis and Trachurus lathami collectively = 1 (100%)",NA,NA,NA,NA
 7w,Sdum.1,Pronotogrammus martinicensis,Pronotogrammus martinicensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,"* Synodus sp, Prionotus sp, Hemanthias vivanus, Pronotogrammus martinicensis and Trachurus lathami collectively = 1 (100%)",NA,NA,NA,NA
 7w,Sdum.1,Trachurus  lathami,Trachurus  lathami,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,"* Synodus sp, Prionotus sp, Hemanthias vivanus, Pronotogrammus martinicensis and Trachurus lathami collectively = 1 (100%)",NA,NA,NA,NA
+42d,Bpat.1,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.1,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.1,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.1,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.1,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.1,Navicula sp.,Navicula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.1,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.2,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.2,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.2,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.2,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.2,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.2,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.2,other centrics,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.2,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.2,Protoperidinium spp.,Protoperidinium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.2,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.3,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.3,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.3,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.3,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.3,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.3,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.3,Protoperidinium spp.,Protoperidinium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.3,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.3,other centrics,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.3,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.4,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.4,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.4,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.4,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.4,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.4,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.4,Protoperidinium spp.,Protoperidinium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.4,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.4,other centrics,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.4,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.5,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rare,NA,NA,NA,NA
+42d,Bpat.5,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.5,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.5,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Ceratium spp.,Ceratium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.5,Coscinodiscus spp.,Coscinodiscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Navicula spp.,Navicula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.5,Tintinnids,Tintinnida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.6,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.6,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.6,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.6,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Ceratium spp.,Ceratium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.6,Coscinodiscus spp.,Coscinodiscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Navicula spp.,Navicula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.6,Tintinnids,Tintinnida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Centric Diatoms,Centrales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Common,NA,NA,NA,NA
+42d,Bpat.7,Pennate Diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Present,NA,NA,NA,NA
+42d,Bpat.7,Dinoflagellates,Pyrrophycophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Dominant,NA,NA,NA,NA
+42d,Bpat.7,Zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Rare,NA,NA,NA,NA
+42d,Bpat.7,Porocentrum spp.,Prorocentrum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Ceratium spp.,Ceratium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Rhizsolenia spp.,Rhizosolenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,identified by an end spike only,NA,NA,NA,NA
+42d,Bpat.7,Coscinodiscus spp.,Coscinodiscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Pleurosigma spp.,Pleurosigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Navicula spp.,Navicula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42d,Bpat.7,Tintinnids,Tintinnida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,0.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,35,22.5,NA,NA,NA,NA,NA,NA,5,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Prionotus,Prionotus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,25,22.5,NA,NA,NA,NA,NA,NA,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,30,35,32.5,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,30,20,NA,NA,NA,NA,NA,NA,5,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.2,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Prionotus,Prionotus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,15,17.5,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lxan.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,Holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,45,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,"other taxa including mollusks, mysids, octopi and polychaetes",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,40,25,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,40,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.1,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,20,12.5,NA,NA,NA,NA,NA,NA,3,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,45,32.5,NA,NA,NA,NA,NA,NA,9,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.1,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,57,62,59.5,NA,NA,NA,NA,NA,NA,3,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,35,40,37.5,NA,NA,NA,NA,NA,NA,2,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,0.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,"other taxa including mollusks, mysids, octopi, polychaetes and holothurians",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,35,22.5,NA,NA,NA,NA,NA,NA,3,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Centropristis,Centropristis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,eel,Anguilliformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Monacanthus,Monacanthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,19,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.6,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,20,20,20,NA,NA,NA,NA,NA,NA,2,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lxan.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,215,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,0.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,40,25,NA,NA,NA,NA,NA,NA,3,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0.83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,"other taxa including mollusks, mysids, octopi, polychaetes and holothurians",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,45,30,NA,NA,NA,NA,NA,NA,6,0.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.3,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,40,53,46.5,NA,NA,NA,NA,NA,NA,3,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Citharichthys,Citharichthys,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.4,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,44,NA,NA,NA,NA,NA,NA,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,6,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,2,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,20,12.5,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.2,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Centropristis,Centropristis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Cynoscion,Cynoscion,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,40,27.5,NA,NA,NA,NA,NA,NA,6,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.2,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,60,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,"other taxa including mollusks, mysids, octopi, polychaetes and holothurians",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,40,30,NA,NA,NA,NA,NA,NA,6,0.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.4,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,20,25,22.5,NA,NA,NA,NA,NA,NA,2,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,"other taxa including mollusks, mysids, octopi, polychaetes and holothurians",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.5,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,30,45,37.5,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lfas.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,0.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lfas.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,eel,Anguilliformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,45,30,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.6,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,50,27.5,NA,NA,NA,NA,NA,NA,8,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.7,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.7,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.7,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.7,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Bollmannia,Bollmannia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,35,22.5,NA,NA,NA,NA,NA,NA,8,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,15,20,17.5,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.3,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.4,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,10,35,22.5,NA,NA,NA,NA,NA,NA,3,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.4,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,10,7.5,NA,NA,NA,NA,NA,NA,3,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.5,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.6,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.6,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.6,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,40,25,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.2,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,20,15,NA,NA,NA,NA,NA,NA,6,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.7,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.7,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.7,Stenotomus,Stenotomus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.8,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.8,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.8,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.8,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,30,25,NA,NA,NA,NA,NA,NA,3,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.8,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,45,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Ophichthus,Ophichthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,eel,Anguilliformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,5,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.2,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,10,15,12.5,NA,NA,NA,NA,NA,NA,3,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,15,10,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,35,NA,NA,NA,NA,NA,NA,2,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.6,Holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.8,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.8,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.8,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.8,Stenotomus,Stenotomus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Anchoa,Anchoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Mullus,Mullus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Serranus,Serranus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.9,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,40,30,NA,NA,NA,NA,NA,NA,3,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Trachurus,Trachurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Scomber,Scomber,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,40,50,45,NA,NA,NA,NA,NA,NA,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.10,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,53,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.11,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.11,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.11,Serranus,Serranus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.11,Bothid,Bothidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,"other taxa including polychaetes, mysids and mollusks",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,5,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.5,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,10,30,20,NA,NA,NA,NA,NA,NA,9,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Antennarius,Antennarius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Serranus,Serranus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.6,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,20,30,25,NA,NA,NA,NA,NA,NA,2,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.7,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,0.92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.7,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.7,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,15,17.5,NA,NA,NA,NA,NA,NA,2,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.8,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.8,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Bollmannia,Bollmannia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,eel,Anguilliformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,40,27.5,NA,NA,NA,NA,NA,NA,4,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.4,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Ophichthus,Ophichthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,40,NA,NA,NA,NA,NA,NA,1,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.5,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.9,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.9,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Trachurus,Trachurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.10,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,40,27.5,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.1,"other taxa including polychaetes, mysids and mollusks",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.1,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.1,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.1,Bothid,Bothidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.3,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.12,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.13,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,35,27.5,NA,NA,NA,NA,NA,NA,2,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.14,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.14,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.14,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.14,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,30,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.15,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.8,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.8,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.8,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,5,0.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.9,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,40,25,NA,NA,NA,NA,NA,NA,3,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.10,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,2,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.11,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.11,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.11,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.11,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.6,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.6,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.6,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.6,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,45,32.5,NA,NA,NA,NA,NA,NA,3,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Prionotus,Prionotus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.7,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,25,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.1,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.9,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,25,20,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.1,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.16,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.16,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.17,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.17,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.18,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.18,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.18,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.18,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.19,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.19,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.19,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.19,Saurida,Saurida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.12,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.12,"other taxa including polychaetes, mysids and mollusks",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.13,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.13,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.13,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.13,"other taxa including polychaetes, mysids and mollusks",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.14,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.14,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.14,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.14,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,25,22.5,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lrho.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.1,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,80,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,166,0.69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,50,27.5,NA,NA,NA,NA,NA,NA,27,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sfoe.20,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,40,53,46.5,NA,NA,NA,NA,NA,NA,5,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,156,0.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,82,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,42,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,2,0.007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnot.11,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,45,NA,NA,NA,NA,NA,NA,1,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,147,0.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,75,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,32,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,10,30,20,NA,NA,NA,NA,NA,NA,25,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cphi.15,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,126,0.83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,10,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lgra.10,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lxan.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,243,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,45,25,NA,NA,NA,NA,NA,NA,14,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mame.7,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,20,45,32.5,NA,NA,NA,NA,NA,NA,5,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,40,22.5,NA,NA,NA,NA,NA,NA,13,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dbiv.4,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,,,10,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,0.41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,0.41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,45,25,NA,NA,NA,NA,NA,NA,19,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Uflo.8,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,10,25,17.5,NA,NA,NA,NA,NA,NA,7,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,45,30,NA,NA,NA,NA,NA,NA,16,0.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Care.3,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,57,62,59.5,NA,NA,NA,NA,NA,NA,4,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lfas.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,0.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lfas.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lfas.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Prub.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,8,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,6,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lsyn.5,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,60,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Stenotomus,Stenotomus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,45,27.5,NA,NA,NA,NA,NA,NA,4,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Afel.3,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,1,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Poct.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Poct.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Poct.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psal.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.2,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Slan.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,20,15,NA,NA,NA,NA,NA,NA,3,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.2,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.2,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.2,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sbra.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,15,25,20,NA,NA,NA,NA,NA,NA,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.3,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.3,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.3,Shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cocy.3,"other taxa including polychaetes, mysids, mollusks, holothurians and octopi",Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Lrho.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Scap.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ptri.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ptri.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ptri.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,4,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ptri.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dpun.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ochr.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.2,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.2,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pare.2,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,10,15,17.5,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cchi.2,Fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Owel.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pple.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pple.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sjap.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sjap.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ohol.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnod.2,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnod.2,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnod.2,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Plet.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Plet.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Plet.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,40,30,NA,NA,NA,NA,NA,NA,3,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Satr.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Satr.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Satr.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Satr.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Gnig.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Gnig.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Bbar.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Bbar.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Bbar.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,20,12.5,NA,NA,NA,NA,NA,NA,3,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tlep.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tlep.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tlep.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tlep.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,35,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cspi.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cfim.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cfim.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cfim.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Maur.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Maur.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Maur.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,10,NA,NA,NA,NA,NA,NA,2,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cfab.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Eumb.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tlat.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pros.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pros.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pros.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,20,30,25,NA,NA,NA,NA,NA,NA,2,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rtex.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rtex.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rtex.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,44,NA,NA,NA,NA,NA,NA,1,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rter.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rter.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rter.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Scal.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Scal.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pbur.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Pbur.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ucir.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ucir.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ucir.1,stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ucir.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,5,20,12.5,NA,NA,NA,NA,NA,NA,2,0.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Ucir.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,15,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Oden.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Oden.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Oden.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Oden.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,5,NA,NA,NA,NA,NA,NA,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Aqua.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mcan.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mcan.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mcan.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mcan.1,stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Mcan.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,40,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sgua.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sgua.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Sgua.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Stib.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Stib.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Stib.1,stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Stib.1,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Tmyo.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Bchr.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Enau.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Enau.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Enau.1,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cfla.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Cnob.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dfor.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psci.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psci.1,Trachypenaeus,Trachypenaeus,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,30,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Psci.1,Sicyonia,Sicyonia,NA,NA,NA,NA,NA,NA,NA,tail length,NA,NA,20,NA,NA,NA,NA,NA,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Apro.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Bgun.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Dsab.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Spap.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Spap.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Spap.1,Miscellaneous,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24d,Rmac.1,Detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Care.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Care.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Care.1,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.2,squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.475,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.277,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.3,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Care.3,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Care.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.3,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.595,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.3,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.3,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.3,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.044,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.4,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.4,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.523,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.4,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Care.4,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,cumaceans,Cumacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Cnot.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.765,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.089,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.2,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.2,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.829,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.3,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.3,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.3,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.889,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.3,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.4,squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.197,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.4,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Cnot.4,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.129,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Cnot.4,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.559,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,diatoms,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.038,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.052,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,cumaceans,Cumacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.048,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.082,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.624,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.1,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,diatoms,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.039,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,cumaceans,Cumacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,lancelets,Amphioxiformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.376,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Lxan.2,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Mund.1,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.086,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.084,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.1,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.033,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.359,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Mund.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.356,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.094,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.094,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.2,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.093,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Mund.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.765,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.3,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,tunicates,Tunicata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.084,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Mund.4,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.087,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,cumaceans,Cumacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.378,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,fish bones/scales,Actinopterygii,NA,NA,bones/scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.076,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.1,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Afel.2,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.401,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,tunicates,Tunicata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.028,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,fish bones/scales,Actinopterygii,NA,NA,bones/scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.093,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.2,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,holothurians,Holothuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,fish bones/scales,Actinopterygii,NA,NA,bones/scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.3,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.4,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.4,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.857,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Afel.4,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.122,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.256,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.259,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.1,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.609,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,gastropods,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.064,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.037,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.2,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.132,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.049,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.127,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.3,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.036,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.032,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.127,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,animal fragments,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Scap.4,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,mysids,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.813,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.1,sand,Sand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,+,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"""+"" indicates < 0.1% or < 0.001",NA,NA,NA,NA
+33s,Tlep.2,shrimps,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.666,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,animal fragments,Animalia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33s,Tlep.2,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.1,eel,Anguilliformes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.1667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.1,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Pcro.1,Donax fragments,Donax,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.2,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.2,threadfin,Polynemidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.2,mullet,Mugilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.2,anchovy,Engraulidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.2,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Pcro.2,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Plet.1,digested fish,Actinopterygii,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.3,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.3,crab,Pleocyemata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.3,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Pcro.3,Donax ,Donax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Apro.1,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.4,mullet,Mugilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Pcro.4,gravel,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Plet.2,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.4,spotted sea trout,Cynoscion nebulosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.4,crabs,Pleocyemata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.4,digested fish,Actinopterygii,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.5,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.5,Pipefish,Syngnathidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.6,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Pcro.5,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.6,juvenile sea catfish,Ariidae ,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.6,mullet,Mugilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.6,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Cneb.7,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.7,eels,Anguilliformes,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.7,juvenile sea catfish,Ariidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.7,thradfins,Polynemidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8h,Soce.7,Atlantic croaker,Micropogonias undulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Harpacticoid copepodite,Harpacticoida,NA,NA,NA,copepodite,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Harpacticoid napulii,Harpacticoida,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Calanoid copepodite,Calanoida,NA,NA,NA,copepodite,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,0.2174,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Copepod napulii,Copepoda,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Amphipod remains,Amphipoda,NA,NA,remians,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,0.6522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Pollen grains,Plantae,NA,NA,grains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.1,Unidentified remains,Organic matter,NA,NA,remians,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0002,0.0435,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Polychaete remains,Polychaeta,NA,NA,remians,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0031,0.0445,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0239,0.3429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Harpacticoid copepodite,Harpacticoida,NA,NA,NA,copepodite,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0027,0.0387,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Amphipod remains,Amphipoda,NA,NA,remians,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0097,0.1392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Taphromysis sp.,Taphromysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,0.0574,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Chironomid larvae,Chironomidae,NA,NA,NA,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0049,0.0703,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.3913,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Leptocheilus rapax,Leptochelia rapax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0036,0.0516,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0005,0.0072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.2,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0173,0.2482,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0486,0.0057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1686,0.0198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Mollusk remains,Mollusca,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0034,0.0004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Harpacticoid napulii,Harpacticoida,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Ampelisca vadorum,Ampelisca vadorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0693,0.0082,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Amphipod remains,Amphipoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0608,0.0072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Crab remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0036,0.0004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Chironomid larvae,Chironomidae,NA,NA,NA,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0036,0.0004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Insect remains,Insecta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0024,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.0851,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Fish remains,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.9415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,64,0.6809,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0009,0.0001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Leptocheilus rapax,Leptochelia rapax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0054,0.0006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Foraminifera,Foraminifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0005,0.0001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Crustacean remains,Crustacea,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0069,0.0008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.3,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1231,0.0145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0224,0.0175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0576,0.045,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Harpacticoid napulii,Harpacticoida,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0003,0.0002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Ampelisca vadorum,Ampelisca vadorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1148,0.0896,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Microdeutopus sp.,Microdeutopus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0075,0.0059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Amphipod remains,Amphipoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.7805,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Shrimp remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0013,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Crab remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,0.0023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Chironomid larvae,Chironomidae,NA,NA,NA,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0029,0.0023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0.3167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Fish remains,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,0.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0027,0.0021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Leptocheilus rapax,Leptochelia rapax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0005,0.0004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Crustacean remains,Crustacea,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0006,0.0005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.4,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0676,0.0528,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Polychaete setae,Polychaeta,NA,NA,setae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0375,0.1115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0234,0.0696,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Gastropod remains,Gastropoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,0.0149,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Ampelisca vadorum,Ampelisca vadorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0413,0.1228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Amphipod remains,Amphipoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0129,0.0383,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Shrimp remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.023,0.0684,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Crab remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0043,0.0128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Notonectid parts,Notonectidae,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0018,0.0054,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Insect remains,Insecta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0018,0.0054,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.4516,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0.8065,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0009,0.0027,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Leptocheilus rapax,Leptochelia rapax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0027,0.008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Limulus polyphemus,Limulus polyphemus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,0.0059,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.5,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1797,0.5342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,0.0189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0009,0.0085,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Amphipod remains,Amphipoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.01,0.0943,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Shrimp remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,0.0471,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Chironomid larvae,Chironomidae,NA,NA,NA,larvae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,0.377,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Notonectid parts,Notonectidae,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0018,0.017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Fish remains,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.01,0.0943,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0006,0.0057,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Crustacean remains,Crustacea,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0018,0.017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.6,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.034,0.3205,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,0.157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Crab remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,0.2355,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Notonectid parts,Notonectidae,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0075,0.0589,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.5455,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.8182,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0004,0.0031,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Shell fragments,Bivalvia,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0909,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.7,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0695,0.5455,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.039,0.047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Mollusca,Mollusca,NA,NA,Siphon tips,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.028,0.0337,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Bilvalve remains,Bivalvia,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.196,0.2362,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Gastropod remains,Gastropoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0875,0.1055,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Mollusk remains,Mollusca,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.164,0.1977,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Shrimp remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.052,0.0627,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Crab remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.032,0.0386,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Notonectid parts,Notonectidae,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.048,0.0579,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0.2667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Fish remains,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.042,0.0506,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.7333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0054,0.0065,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Erichsonella sp.,Erichsonella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,0.0362,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Crustacean remains,Crustacea,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,0.0241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.8,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0858,0.1034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Polychaete remains,Polychaeta,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1315,0.1265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Bilvalve remains,Bivalvia,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018,0.0173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Gastropod remains,Gastropoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.036,0.0346,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Mollusk remains,Mollusca,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.674,0.6486,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Corophium sp.,Corophium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0018,0.0017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Amphipod remains,Amphipoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,0.0019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Shrimp remains,Decapoda,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0075,0.0072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Notonectid parts,Notonectidae,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0532,0.0512,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.3333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Fish remains,Actinopterygii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,0.0001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.5714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Plant remains,Plantae,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0039,0.0038,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Fecal pellets,Organic matter,NA,NA,pellets,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0009,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17p,Pcro.9,Unidentified remains,Organic matter,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1103,0.1061,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
