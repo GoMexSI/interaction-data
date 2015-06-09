@@ -2634,7 +2634,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 16m,Pchr.2,Anomalocardia auberiana,Anomalocardia auberiana,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0002,NA,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Nereis succinea,Nereis succinea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0036,93,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Capitella capitita,Capitella capitita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,2,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-16m,Pchr.2,Haploscoloplus foliosus,Haploscoloplus foliosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,1,NA,NA,NA,NA,0.021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16m,Pchr.2,Haploscoloplos foliosus,Haploscoloplos foliosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,1,NA,NA,NA,NA,0.021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Corophium ascherusicum,Corophium ascherusicum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0001,42,NA,NA,NA,NA,0.127,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Batea catharinensis,Batea catharinensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,2,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Ampelisca abdita,Ampelisca abdita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,2,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2642,7 +2642,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 16m,Pchr.2,Cerapus tubularis,Cerapus tubularis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,1,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Leptochelia rapax,Leptochelia rapax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,18,NA,NA,NA,NA,0.093,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0007,4,NA,NA,NA,NA,0.046,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-16m,Pchr.2,Palaemontes intermedius,Palaemontes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0002,6,NA,NA,NA,NA,0.034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16m,Pchr.2,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0002,6,NA,NA,NA,NA,0.034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Penaeus aztecus,Penaeus aztecus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0029,1,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Menippe mercenaria,Menippe mercenaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0087,2,NA,NA,NA,NA,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16m,Pchr.2,Mysidopsis bahia,Mysidopsis bahia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.0001,1,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -2764,7 +2764,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 20d,Afel.1,Portunidae,Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Afel.1,Callinectes sapidus,Callinectes sapidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Afel.1,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
-20d,Afel.1,molusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
+20d,Afel.1,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Afel.1,gastropoda,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Afel.1,Brevoortia sp.,Brevoortia sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Afel.1,anchoa sp.,Anchoa sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
@@ -2808,7 +2808,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 20d,Bmar.1,Portunidae,Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Bmar.1,Callinectes sapidus,Callinectes sapidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Bmar.1,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
-20d,Bmar.1,molusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
+20d,Bmar.1,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Bmar.1,Brevoortia sp.,Brevoortia sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Bmar.1,anchoa sp.,Anchoa sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Bmar.1,bagre marinus,Bagre marinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
@@ -2845,7 +2845,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 20d,Cfab.1,Crustacea,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Cfab.1,amphipoda,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Cfab.1,insecta,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
-20d,Cfab.1,molusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
+20d,Cfab.1,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Cfab.1,osteichthyes,Osteichthyes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Cfab.1,algae,Algae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.625,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Cfab.1,mud and sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.625,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
@@ -2894,7 +2894,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 20d,Gbos.1,copepoda,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Gbos.1,mysidacea,Mysidacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Gbos.1,amphipoda,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
-20d,Gbos.1,molusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
+20d,Gbos.1,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Gbos.1,vascular plants,Tracheophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Gbos.1,organic detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Gbos.1,mud and sand,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.375,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
@@ -2933,7 +2933,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 20d,Lxan.1,Eucarida,Eucarida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Lxan.1,Portunidae,Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Lxan.1,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
-20d,Lxan.1,molusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
+20d,Lxan.1,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Lxan.1,gastropoda,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Lxan.1,chordata,Chordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
 20d,Lxan.1,algae,Algae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,"For all prey items in 20d: FO% was denoted using a star system.  0 stars = 0-25%, 1 star = 25-50%, 2 stars = 50-75%, 3 stars = 75-100%. For this database, the mean of each range was used.",NA,NA,NA,NA
@@ -3166,7 +3166,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 42s,Soce.2,palaemonetid shrimp,Palaemonidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.1,palaemonetid shrimp,Palaemonidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.2,palaemonetid shrimp,Palaemonidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42s,Soce.3,Palaemontes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42s,Soce.3,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.2,penaeid shrimp,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.2,small penaeid shrimp,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Pcro.4,polychaetes,Polychaeta,NA,NA,Shell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3241,7 +3241,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 43b,Lcam.4,shrimp (penaeid),Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.417,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.4,crab (unidentified),Brachyura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.4,Acetes sp.,Acetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.4,batfish,Ogcocephalidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43b,Lcam.4,batfish,Ogcocephalidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.4,fish (unidentified),Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.4,4 other categories,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.5,C. danae,Callinectes danae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.392,NA,0.359,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3300,7 +3300,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 43b,Lcam.12,shrimp,Dendrobranchiata ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,0.25,0.044,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.12,Sicyonia sp.,Sicyonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.12,Acetes sp.,Acetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.12,Ogcocephalidiae,Ogcocephalidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43b,Lcam.12,Ogcocephalidae,Ogcocephalidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,0.035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.12,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.12,Sicyonia sp.,Sicyonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43b,Lcam.12,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,0.044,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3618,7 +3618,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 10k,Apro.1,other fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.666,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10k,Lxan.1,other invertebrates with algae,Deuterostome/Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,0.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 10k,Lxan.1,other fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6j,Edru.1,Pronotogrammus vivanus,Hemathias vivanus,NA,NA,NA,NA,excellent,NA,NA,NA,NA,NA,NA,NA,NA,numerous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6j,Edru.1,Pronotogrammus vivanus,Hemanthias vivanus,NA,NA,NA,NA,excellent,NA,NA,NA,NA,NA,NA,NA,NA,numerous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6j,Emor.1,Steinegeria rubescens,Taractes rubescens,NA,NA,NA,NA,fair,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6j,Emor.2,Scarus evermanni,Scarus evermanni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6j,Emor.3,Scarus bollmani,Scarus taeniopterus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3627,7 +3627,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6j,Laya.1,Myrophis punctatus,Myrophis punctatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,a few,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.1,Synodus intermedius,Synodus intermedius,NA,NA,NA,NA,badly mutiliated,NA,NA,NA,NA,NA,NA,NA,NA,numerous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.2,Muraena ocellata,Gymnothorax ocellatus,NA,NA,NA,NA,good,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7j,Lbla.3,Ophichthys mordax,Echiophus punctifer,NA,NA,NA,NA,nearly digested,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7j,Lbla.3,Ophichthys mordax,Echiophis punctifer,NA,NA,NA,NA,nearly digested,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.4,Ophichthys chrysops,Ophichthus chrysops,NA,NA,NA,NA,poor,M,NA,NA,NA,50.8,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.4,Ophichthys chrysops,Ophichthus chrysops,NA,NA,NA,NA,NA,F,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.5,Conger sp.,Conger,NA,NA,NA,NA,skin was digested,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4011,7 +4011,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 42s,Soce.3,small shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.3,Penaeus aztecus,Farfantepenaeus aztecus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.3,prawns,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-42s,Soce.3,Palaemontes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42s,Soce.3,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.3,sheephead minnows,Cyprinodon variegatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Pcro.1,marine annelids,Annelida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Pcro.1,small fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4156,7 +4156,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Afel.2,Molgula sp.,Molgula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04452,0.004,NA,NA,NA,NA,3,0.056,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.2,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,0.01113,< 0.001,NA,NA,NA,NA,1,0.019,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.2,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.11037,0.549,NA,NA,NA,NA,54,1,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Afel.3,Phylum Cnideria,Cnideria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.142135,0.007,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Afel.3,Phylum Cnidaria,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.142135,0.007,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.3,Phylum Annelida,Annelida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.12697,0.154,NA,NA,NA,NA,27,0.458,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.3,Class Gastropoda,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.223355,0.011,NA,NA,NA,NA,4,0.068,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.3,Mulinia lateralis,Mulinia lateralis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08122,0.004,NA,NA,NA,NA,4,0.068,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -4183,7 +4183,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Afel.3,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,0.08122,0.004,NA,NA,NA,NA,3,0.051,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.3,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.589015,0.423,NA,NA,NA,NA,58,0.983,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.3,Polychaete tube/sand,Polychaeta,NA,NA,tube/sand,NA,NA,NA,NA,NA,NA,NA,NA,0.020305,< 0.001,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Afel.4,Phylum Cnideria,Cnideria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Afel.4,Phylum Cnidaria,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Class Polychaeta,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.249364,0.068,NA,NA,NA,NA,60,0.625,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Family Terebellidae,Terebellidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Class Gastropoda,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,0.001,NA,NA,NA,NA,3,0.031,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -4211,7 +4211,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Afel.4,Section Brachyura,Brachyura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Class Insecta,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,0.001,NA,NA,NA,NA,4,0.042,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Subclass Pterygota,Pterygota,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,3,0.031,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Afel.4,Section Hydracarina,Hydrachnidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Afel.4,Section Hydracarina,Hydrachnidia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,Subphylum Urochordata,Urochordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018373,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,fish material,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.661428,0.036,NA,NA,NA,NA,28,0.292,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Afel.4,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,1.175872,0.064,NA,NA,NA,NA,79,0.823,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -4259,7 +4259,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Care.1,Family Engraulidae,Engraulidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.506804,0.068,NA,NA,NA,NA,4,0.067,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Care.1,Anchoa mitchilli,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.320479,0.043,NA,NA,NA,NA,3,0.05,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Care.1,Family Gadidae,Gadidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.222292,0.164,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Care.1,Chloroscombmbrus chrysurus,Chloroscombmbrus chrysurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.067077,0.009,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Care.1,Chloroscombrus chrysurus,Chloroscombrus chrysurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.067077,0.009,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Care.1,fish material,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.540175,0.475,NA,NA,NA,NA,39,0.65,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Care.1,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,0.007453,< 0.001,NA,NA,NA,NA,1,0.017,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Care.1,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.961437,0.129,NA,NA,NA,NA,58,0.967,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -4384,7 +4384,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Mund.1,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,0.005232,0.003,NA,NA,NA,NA,3,0.052,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Mund.1,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.803984,0.461,NA,NA,NA,NA,56,0.966,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Mund.1,sand and sediment,Sediment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003488,0.002,NA,NA,NA,NA,2,0.034,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Mund.2,Phylum Cnideria,Cnideria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007548,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Mund.2,Phylum Cnidaria,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007548,< 0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Mund.2,Class Polychaeta,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.385168,0.316,NA,NA,NA,NA,86,0.869,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Mund.2,Family Onuphidae,Onuphidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.045288,0.006,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Mund.2,Family Terebellidae,Terebellidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007548,0.001,NA,NA,NA,NA,1,0.01,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -4466,7 +4466,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 4l,Slan.2,Section Anomura,Anomura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.000714,0.001,NA,NA,NA,NA,1,0.016,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Slan.2,Pinnixa cristata,Austinixa cristata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.000714,0.001,NA,NA,NA,NA,1,0.016,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Slan.2,Family Engraulidae,Engraulidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.054978,0.077,NA,NA,NA,NA,1,0.016,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
-4l,Slan.2,Chloroscombmbrus chrysurus,Chloroscombmbrus chrysurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009282,0.013,NA,NA,NA,NA,1,0.016,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
+4l,Slan.2,Chloroscombrus chrysurus,Chloroscombrus chrysurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009282,0.013,NA,NA,NA,NA,1,0.016,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Slan.2,fish material,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.20706,0.29,NA,NA,NA,NA,12,0.197,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Slan.2,fish scales,Actinopterygii,NA,NA,scales,NA,NA,NA,NA,NA,NA,NA,NA,0.004284,0.006,NA,NA,NA,NA,6,0.098,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
 4l,Slan.2,digested material,Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.29988,0.42,NA,NA,NA,NA,58,0.951,NA,NA,NA,NA,NA,Biomass and Frequency Occurrence are calculated from percents given in text.,NA,NA,NA,NA
@@ -5345,7 +5345,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Pfur.1,Heteropoda,Heteropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.007,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Pfur.1,Pteropoda,Thecosomata  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.007,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Pfur.1,Spiratella sp. A,Limacina  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Pfur.1,"Class Cephalopoda, Teuthidida",Teuthididia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,0.011,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Pfur.1,"Class Cephalopoda, Teuthidida",Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,0.011,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Pfur.1,"Phylum Annelida, larvae",Annelida,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.022,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Pfur.1,"Class Polychaeta, errant",Polychaeta  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.034,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Pfur.1,Family Nereidae,Nereidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5505,7 +5505,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Raur.1,Order Salpida,Salpida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.237,NA,0.193,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Raur.1,Family Salpidae,Salpidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Raur.1,Salp B,Salpidae  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Raur.1,Family Dolioidae,Dolioidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.013,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Raur.1,Family Doliolidae,Doliolidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.013,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Raur.1,Class Larvacea,Appendicularia  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Raur.1,Oikapleura sp.,Appendicularia  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.003,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Raur.1,unid. Gelatinous urochordate,Urochordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.214,NA,0.224,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5559,7 +5559,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Lcam.1,Order Mysidacea,Mysidacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.04,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Lcam.1,suborder Natantia (Decapoda),Dendrobranchiata  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.005,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Lcam.1,infraorder Penaeidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.005,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Lcam.1,Family Penaedae,Penaedae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.005,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Lcam.1,Family Penaeidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.005,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Lcam.1,infraorder Caridea,Caridea  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.01,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Lcam.1,Family Alpheidae,Alpheidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.005,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Lcam.1,"suborder Reptantia, crab-like",Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.02,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5629,7 +5629,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Hmel.1,Family Sargassaceae,Sargassaceae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Division Rhodophyta,Rhodophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,unidentified animal matter,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,NA,0.271,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Hmel.1,siliceous sponge,Hexactinellid,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Hmel.1,siliceous sponge,Hexactinellida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Order Siphonophora,Siphonophorida  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Class Anthozoa,Anthozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Phylum Priapulida,Priapulida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5666,7 +5666,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Hmel.1,Order Mysidacea,Mysidacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.02,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Family Mysidae,Mysidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.007,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,suborder Natantia,Dendrobranchiata  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,0.049,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Hmel.1,Family Penaedae,Penaedae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Hmel.1,Family Penaeidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,infraorder Carida,Caridea  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Family Alpheidae,Alpheidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.007,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,"suborder Reptantia, crab-like",Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,0.031,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5707,7 +5707,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Hmel.1,Family Engraulidae,Engraulidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Family Carangidae,Carangidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.019,NA,0.007,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Decapterus sp.,Decapterus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Hmel.1,Eutremes teres,Eutremes teres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Hmel.1,Etrumeus teres,Etrumeus teres,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Family Nemichthyidae,Nemichthyidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Family Serranidae,Serranidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.068,NA,0.009,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Pronotogramus aurorubens,Hemanthias aureorubens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.039,NA,0.004,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5720,7 +5720,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Hmel.1,Family Gobiidae,Gobiidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.013,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,"Gobiosoma sp., larval",Gobiosoma,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Gobiosoma sp.,Gobiosoma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Hmel.1,Family Blennidae,Blennidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Hmel.1,Family Blenniidae,Blenniidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,"Family Syngnathidae, seahorse",Syngnathidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,Chaunax sp. (Chaunacidae),Chaunax,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Hmel.1,"Urophycis cirratus, (Gadidae)",Urophycis cirrata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,0.002,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -5863,7 +5863,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Cnod.1,"Class Crustacea, shrimp-like",Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,0.095,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cnod.1,suborder Gammaridea,Gammaridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.095,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cnod.1,suborder Natantia,Dendrobranchiata  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,0.095,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Cnod.1,Family Penaedae,Penaedae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.048,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Cnod.1,Family Penaeidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.048,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cnod.1,Section Anomura,Anomura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.014,NA,0.238,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cnod.1,Family Diogenidae,Diogenidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.048,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cnod.1,Petrochirus diogenes,Petrochirus diogenes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.006,NA,0.048,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -6028,7 +6028,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 8n,Cpul.1,Class Anthozoa,Anthozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cpul.1,Madracis sp.,Madracis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.041,NA,0.667,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cpul.1,Phylum Chaetognatha,Chaetognatha,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.041,NA,0.667,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
-8n,Cpul.1,"Phylum Bryzoa, Entoprocta",Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.082,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
+8n,Cpul.1,"Phylum Bryozoa, Entoprocta",Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.082,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cpul.1,"Phylum Mollusca, Pelecypoda",Bivalvia  ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cpul.1,"Class Crustacea, plankter",Crustacea,NA,NA,NA,planktonic,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,1,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
 8n,Cpul.1,Order Calanoida,Calanoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tr,NA,0.333,NA,NA,NA,NA,NA,* tr = < 0.1%,NA,NA,NA,NA
@@ -9982,7 +9982,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 5r,Cspi.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5r,Plet.1,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.4286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5r,Plet.1,shrimp,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.1429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-5r,Pchr.1,masses of unidentifiable pelecypod shell debris,Bivalia,NA,NA,shell hash,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5r,Pchr.1,masses of unidentifiable pelecypod shell debris,Bivalvia,NA,NA,shell hash,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5r,Care.1,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5r,Care.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5r,Care.1,Brevoortia patronis,Brevoortia patronus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10971,7 +10971,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 46m,Cneb.1,Pinfish,Lagodon rhomboides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0.0037,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Striped anchovy,Anchoa hepsetus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0.0029,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Piggy perch,Orthopristis chrysopterus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.0014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Cneb.1,Blennie,Blennidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Cneb.1,Blennie,Blenniidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Croaker,Micropogon undulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Hardhead catfish,Galeichthys felis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Needle gar,Strongylurus marina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10985,8 +10985,8 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 46m,Cneb.1,Clupeidae family,Clupeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Unidentifed fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,381,0.1096,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Shell,Ostrea virginica,NA,NA,shell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0.0063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Cneb.1,Periwinkle,Littornia littoralis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Cneb.1,Barnacles,Balanius ebeneureum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Cneb.1,Periwinkle,Littorina littoralis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Cneb.1,Barnacles,Balanus eburneus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.0009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Arca reticulata,Arca reticulata,NA,NA,pieces,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Anomia simplex,Anomia simplex,NA,NA,shell,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -10996,7 +10996,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 46m,Cneb.1,Isopods,Lavonica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0.0043,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.0035,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Grass (uni.),Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Cneb.1,Annelids,Nerina agilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.0078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Cneb.1,Annelids,Nerine agilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0.0078,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Digested material (uni.),Organic matter,digestate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Cneb.1,Isopod (In stomach),Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Palaemonetes spp.,Palaemonetes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,182,0.0612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11022,7 +11022,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 46m,Soce.1,Pinfish,Lagodon rhomboides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Pipefish,Syngnathidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Hardhead catfish,Galeichthys felis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Soce.1,Blennis,Blennidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Soce.1,Blennis,Blenniidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Striped anchovy,Anchoa hepsetus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0.0047,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Lizard fish,Synodus foetens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Fundulus similis,Fundulus similis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11038,7 +11038,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 46m,Soce.1,Algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Gastropods,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Grass (uni.),Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-46m,Soce.1,Annelid,Nerina agilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46m,Soce.1,Annelid,Nerine agilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Turtle grasses,Thalassia testudinum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Cricket,Gryllidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.0003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 46m,Soce.1,Annelids (uni.),Annelida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.0007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11406,7 +11406,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Cocy.3,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.317,0.5,0.25,0.204,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Cocy.3,Cig_flt,Cigarette filter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.683,0.5,0.031,0.037,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Cocy.4,Paguridae,Paguridae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,0.333,0.031,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Cocy.4,Blennidae,Blenniidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.938,0.667,0.063,0.101,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Cocy.4,Blenniidae,Blenniidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.938,0.667,0.063,0.101,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Cocy.5,Clupeidae,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.435,0.6,0.031,0.032,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Cocy.5,Teuthoidea,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.2,0.156,0.109,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Cocy.5,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.065,0.2,0.25,0.066,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11445,7 +11445,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Dhol.5,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.143,0.273,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.6,Mytilidae,Mytilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,0.533,0.091,0.056,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.6,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,0.133,0.091,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Dhol.6,Bryzoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,0.667,0.136,0.102,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Dhol.6,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,0.667,0.136,0.102,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.6,Balanus,Balanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,0.133,0.136,0.029,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.6,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.667,0.133,0.136,0.109,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.7,bivalve,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.5,0.136,0.136,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11456,14 +11456,14 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Dhol.9,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.273,0.546,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.10,Teuthoidea,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.5,0.045,0.045,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.10,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.5,0.273,0.273,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Dhol.11,Bryzoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.136,0.272,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Dhol.11,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.136,0.272,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.12,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.273,0.546,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.13,Balanus,Balanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,0.021,0.136,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.13,bivalve,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,0.064,0.136,0.021,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.13,eggs,Animalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,0.851,0.045,0.042,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.13,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.727,0.064,0.273,0.216,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.14,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.875,0.667,0.273,0.421,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Dhol.14,bryzoan,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,0.333,0.136,0.062,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Dhol.14,Bryozoan,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,0.333,0.136,0.062,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.15,Polysiphonia,Polysiphonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.286,0.4,0.136,0.093,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Dhol.15,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.714,0.6,0.273,0.359,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Emor.1,Paguridae,Paguridae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11535,7 +11535,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Hbiv.20,bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.161,0.322,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Hplu.1,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.121,0.242,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Hplu.2,gastropod,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.091,0.182,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Hplu.3,bryzoan,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.5,0.03,0.033,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Hplu.3,Bryozoan,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,0.5,0.03,0.033,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Hplu.3,Gastropod,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,0.5,0.091,0.082,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Hplu.4,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.03,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Hplu.5,Penaeidae,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,0.125,0.061,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11570,7 +11570,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Lrho.7,arabacia,Mauritia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.037,0.074,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Lrho.8,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.111,0.222,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Lrho.9,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,0.148,0.296,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Lrho.10,Bryzoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.1,0.037,0.016,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Lrho.10,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.1,0.037,0.016,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Lrho.10,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.1,0.148,0.064,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Lrho.10,bivalve,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.8,0.074,0.084,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Lrho.11,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.333,0.333,0.111,0.074,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11582,7 +11582,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Mhis.1,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,0.05,0.75,0.053,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Mhis.1,Mytilidae,Mytilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,0.05,0.25,0.018,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Mhis.1,Demospongiae,Demospongiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,0.05,0.25,0.023,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Mhis.1,bryzoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.918,0.85,0.25,0.442,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Mhis.1,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.918,0.85,0.25,0.442,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Mhis.2,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,0.333,0.75,0.318,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Mhis.2,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.909,0.667,0.5,0.788,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Mhis.3,Xanthidae,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.118,0.111,0.75,0.172,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11638,7 +11638,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 6n,Pvar.13,Polychaete,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.167,0.333,0.515,0.258,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Pvar.13,hydroids,Hydrozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.833,0.667,0.212,0.318,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Pvar.14,Balanus,Balanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.385,0.091,0.081,NA,NA,NA,NA,NA,NA,NA,NA,NA
-6n,Pvar.14,Bryzoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.077,0.03,0.005,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6n,Pvar.14,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.077,0.03,0.005,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Pvar.14,Polychaete,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,0.308,0.515,0.21,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Pvar.14,Unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3,0.231,0.212,0.113,NA,NA,NA,NA,NA,NA,NA,NA,NA
 6n,Pvar.15,Balanus,Balanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.667,0.8,0.091,0.133,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -11975,7 +11975,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 30l,Hsti.2,crustacean larvae,Crustacea,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Hsti.2,lamellibranchs,Lamellibranchia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Hsti.2,molluscan larvae,Mollusca,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-30l,Hsti.2,formainifera,Formainifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30l,Hsti.2,Foraminifera,Foraminifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Sbar.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Sbar.1,squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Eall.1,Hemiramphus sp.,Hemiramphus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,125,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12201,7 +12201,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 30l,Bmar.1,small tunicates,Urochordata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Bmar.1,clams,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Bmar.1,amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-30l,Bmar.1,bryzoans,Bryzoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30l,Bmar.1,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Bmar.1,bits of sponge,Porifera,NA,NA,fragments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 30l,Ster.19,Lepophidium profundorum,Lepophidium profundorum,NA,NA,scrap,NA,NA,NA,NA,NA,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,from waste of Long Key tern colony,NA,NA,NA,NA
 30l,Ster.20,Monacanthus hispidus,Stephanolepis hispidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,from waste of Bird Key tern colony,NA,NA,NA,NA
@@ -12242,7 +12242,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 5n,Mmic.3,Calamus  bajonado,Calamus  bajonado,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.3,Decapterus punctatus,Decapterus punctatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018,NA,0.025,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.3,Mugilidae,Mugilidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-5n,Mmic.3,Mugi cephalus,Mugi cephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5n,Mmic.3,Mugil cephalus,Mugil cephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,0.012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.3,Mugil. sp.,Mugil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,NA,0.056,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.3,Ophichthidae,Ophichthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.008,NA,0.019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.3,Echiophis intertinctus,Echiophis intertinctus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.002,NA,0.006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12338,7 +12338,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 5n,Mmic.4,Calappa flammea,Calappa flammea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.004,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.4,Lysiosquilla scabricauda,Lysiosquilla scabricauda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.4,Lysiosquilla campechiensis,Lysiosquilla campechiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.003,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-5n,Mmic.4,lsopoda,lsopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5n,Mmic.4,Isopoda,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.4,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,0.017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.4,Loligo pealeii,Loligo pealeii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.4,Octopus,Cephalopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12479,7 +12479,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 5n,Mmic.9,Calappa flammea,Calappa flammea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.9,Lysiosquilla campechiensis,Lysiosquilla campechiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.005,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.9,Isopoda,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-5n,Mmic.9,Molusca,Molusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5n,Mmic.9,Mollusca,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.9,Squid,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.013,NA,0.022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.9,Loligo pealeii,Loligo pealeii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.007,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 5n,Mmic.9,Octopus,Octopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,0.004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12669,14 +12669,14 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Bcan.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Bcan.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Bcan.1,Shrimp larvae,Decapoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Cenc.1,Invertebrate eggs,Anamalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Cenc.1,Invertebrate eggs,Animalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Cenc.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Cenc.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Cenc.1,Crab larvae,Decapoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Cenc.1,Shrimp larvae - sergestid,Sergestidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,* Sergestid shrimp and shrimp larvae are collectively  0.021 (2.1%),NA,NA,NA,NA
 7w,Cenc.1,Shrimp - sergestid,Sergestidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,* Sergestid shrimp and shrimp larvae are collectively  0.021 (2.1%),NA,NA,NA,NA
 7w,Cenc.1,Larvaceans,Larvacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Hviv.1,Invertebrate eggs,Anamalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Hviv.1,Invertebrate eggs,Animalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hviv.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.177,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hviv.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.788,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hviv.1,Ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12694,7 +12694,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Pfur.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Pfur.1,Crab larvae,Decapoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Pfur.1,Shrimp larvae,Decapoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Pmar.1,Invertebrate eggs,Anamalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Pmar.1,Invertebrate eggs,Animalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Pmar.1,Radiolarians,Radiolaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Pmar.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Pmar.1,Copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.697,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12769,7 +12769,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Dpue.1,Crab larvae,Decapoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Dpue.1,Crabs - pagurid,Paguridae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Dpue.1,Stomatopod larvae,Stomatopoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Hbat.1,Foraminferans,Formainifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Hbat.1,Foraminferans,Foraminifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hbat.1,Pelecypods,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.483,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hbat.1,Squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hbat.1,Polychaetes,Polychaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.034,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12807,7 +12807,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Pumb.1,Ophiuroids,Ophiuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.091,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hber.1,Sponges,Porifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hber.1,Soft corals - gorgonians,Alcyonacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Hber.1,Bryzoans,Bryzoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Hber.1,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.417,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Hber.1,Crinoids,Crinozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.083,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Csed.1,Hyrdozoans,Hydroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Csed.1,Soft corals - gorgonians,Alcyonacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.144,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -12839,7 +12839,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Lcam.1,Squids,Teuthida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Lcam.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.051,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Lcam.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Lcam.1,Shrimps - Sicyona sp.,Sicyona,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Lcam.1,Shrimps - Sicyonia sp.,Sicyonia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Lcam.1,Stomatopods,Stomatopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.026,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Lcam.1,Salps,Salpida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Lcam.1,Hemanthias vivanus,Hemanthias vivanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,"* Hemanthias vivanus, Serranus sp, Bregmaceros cantori and Hoplunnus sp collectively = 0.564 (56.4%)",NA,NA,NA,NA
@@ -12850,7 +12850,7 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 7w,Mplu.1,Gastropods,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Mplu.1,Pelecypods,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Mplu.1,Crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7w,Mplu.1,Bryzoans,Bryzoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7w,Mplu.1,Bryozoans,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Mplu.1,Ophiuroids,Ophiuroidea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7w,Mplu.1,Hemanthias vivanus,Hemanthias vivanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,* Hemanthias vivanus and Pronotogrammus martinicensis collectively = 0.188 (18.8%),NA,NA,NA,NA
 7w,Mplu.1,Pronotogrammus martinicensis,Pronotogrammus martinicensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,* Hemanthias vivanus and Pronotogrammus martinicensis collectively = 0.188 (18.8%),NA,NA,NA,NA
@@ -23970,3 +23970,541 @@ REF_ID,PRED_ID,SOURCE_PREY_NAME,DATABASE_PREY_NAME,PHYSIOLOG_STATE,SED_ORIGIN,PR
 23t,Kalb.14,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23t,Kalb.15,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23t,Kalb.36,Empty,Empty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleu.1,Galeichthys felis,Galeichthys felis,NA,NA,NA,NA,NA,NA,NA,NA,200,250,225,NA,NA,4,0.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleu.1,Penaeus duorarum,Farfantepenaeus duorarum,NA,NA,NA,NA,NA,NA,NA,CL,NA,NA,10,NA,NA,1,0.17,NA,NA,1,0.1667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleu.1,Lophogobius cyprinoides,Lophogobius cyprinoides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,NA,NA,1,0.17,NA,NA,1,0.1667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Esau.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Esau.1,crab zoea,Decapoda,NA,NA,NA,zoea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Esau.2,fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Esau.2,caridean shrimp,Caridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Esau.2,Poecilia latipinna,Poecilia latipinna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,* fishes collectively 56% of volume,NA,NA,NA,NA
+4o,Esau.2,Eucinostomus gula,Eucinostomus gula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,* fishes collectively 56% of volume,NA,NA,NA,NA
+4o,Esau.2,Menidia beryllina,Menidia beryllina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,* fishes collectively 56% of volume,NA,NA,NA,NA
+4o,Esau.2,Anchoa hepsetus,Anchoa hepsetus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,* fishes collectively 56% of volume,NA,NA,NA,NA
+4o,Esau.3,zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,unidentified residue,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.2,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.2,copepod zoea,Copepoda,NA,NA,NA,zoea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.2,copepod napulii,Copepoda,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hpen.2,fish larvae,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.1,copepodites,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.1,napulii,Animalia,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.2,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.3,selected copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.3,other small zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,small molluscs,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Amit.4,detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.2,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.2,small crabs,Decapoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,bark,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Afel.3,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bmar.1,Callinectes sapidus,Callinectes sapidus,NA,NA,NA,NA,NA,NA,NA,CW,40,50,30,NA,NA,NA,NA,NA,NA,3,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bmar.1,Unidentified fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Aros.2,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Aros.2,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Aros.2,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Aros.2,Lophogobius cyprinoides,Lophogobius cyprinoides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcon.1,small chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcon.1,small amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,small Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,CW,2,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,small snails,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.1,filaments of algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.2,larger Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,CW,5,12,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fgra.3,Gambusa affinis,Gambusa affinis,NA,NA,NA,NA,NA,NA,NA,TL,NA,NA,25,NA,NA,1,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Unrecognizable material,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Filamentous green algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Filamentous blue-green algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,small crustaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Mangrove leaf,Malpighiales,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.153,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,fecal pellets,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.036,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0765,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvar.1,Juncus leaf,Juncus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.162,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,Unrecognizable material,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,Neanthes,Neanthes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,Nematodes,Nematoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,benthic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,filamentous algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,small amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,fecal pellets,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0987,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,leaf material,Plantae,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Fcar.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,filamentous algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,small copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,benthic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,unidentified small particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,fecal pellets,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0099,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,Juncus leaf,Juncus,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0363,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,Mangrove leaf,Malpighiales,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Axen.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1353,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.1,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,cummaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,unidentified material,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,unidentified material,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpar.3,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgoo.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgoo.1,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgoo.1,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgoo.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,unrecognizable animal material,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,hydracarina,Hydrachnidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,small insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gaff.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,unrecognizable particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,filamentous algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,Diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0901,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,Juncus leaf,Juncus,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,Mangrove leaf,Malpighiales,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Plat.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.3922,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,Diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,Filamentous green algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Hfor.1,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Eita.1,Penaeus duorarum,Farfantepenaeus duorarum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Eita.1,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Eita.2,Penaeus duorarum,Farfantepenaeus duorarum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Eita.2,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.1,Palaemontes sp.,Palaemontes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.1,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.1,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,Penaeus duorarum,Farfantepenaeus duorarum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,Procambarus alleni,Procambarus alleni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,Palaemontes,Palaemontes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.2,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.3,Anguilla rostrata,Anguilla rostrata,NA,NA,NA,NA,NA,NA,NA,TL,NA,NA,210,NA,NA,1,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lgri.4,small crustaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,obtained in seagrass communities,NA,NA,NA,NA
+4o,Lpun.1,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.2,insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.2,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.2,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,adult insects,Insecta,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,hydracarina,Hydrachnidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.3,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,adult insects,Insecta,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lpun.4,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chip.1,penaeid shrimp,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Osau.2,larval fish,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,NA,5,NA,NA,NA,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Osau.2,Palaemontes sp.,Palaemontes,NA,NA,NA,young,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.2,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Egul.2,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.2,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.3,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.3,napulii,Animalia,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.3,zoea,Animalia,NA,NA,NA,zoea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.4,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.4,napulii,Animalia,NA,NA,NA,napulii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.4,zoea,Animalia,NA,NA,NA,zoea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.4,small amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Earg.4,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,small bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.2,Taphromysis bowmani,Taphromysis bowmani,NA,NA,NA,NA,NA,NA,NA,NA,3,5,4.5,NA,NA,18,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Dplu.3,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,3,5,4.5,NA,NA,50,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.1,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.8571,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.1,chironomids,Chironomidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,1,0.1429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.1,mangrove bark,Malpighiales,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,1,0.1429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.2,copepods (mostly Acartia sp.),Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,0.5,0.7,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.3,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.4,crab zoea,Decapoda,NA,NA,NA,zoea,NA,NA,NA,NA,1,1.5,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.4,larval fish,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,2,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.5,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.5,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.5,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.6,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.6,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.6,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.7,xanthid crabs,Xanthidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.7,portunid crabs,Portunidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.7,penaeid shrimp,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.7,small fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.8,planktonic copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.8,crustacean zoea stages,Crustacea,NA,NA,NA,zoea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.8,larval fish,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.9,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.9,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.9,caridean shrimp,Caridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Soce.9,possibly post-larval penaeid shrimp,Penaeidae,NA,NA,NA,post-larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.1,Anchoa mitchilli,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.1,Eucinostomus gula,Eucinostomus gula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.1,caridean shrimp,Caridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.2,carideans,Caridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cneb.2,small fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.1,larval fish,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.1,Menidia beryllina,Menidia beryllina,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.2,Anchoa mitchilli,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.3,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.3,larval fish,Actinopterygii,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.4,Anchoa mitchilli,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bchr.4,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.1,Brachidontes exustus,Brachidontes exustus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.1,Congeria leucophaeta,Congeria leucophaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.2,pieces of algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.2,vascular plants,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.2,crustaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lrho.2,molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,chironomids,Chironomidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,strands of algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.1,very small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.2,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.2,chironomids,Chironomidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,hydrazoans,Hydrozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,Congeria leucophaeta,Congeria leucophaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,Anomalocardia cunnimeris,Anomalocardia cuneimeris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.3,Brachidontes exustus,Brachidontes exustus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,Brachidontes exustus,Brachidontes exustus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,Congeria leucophaeta,Congeria leucophaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,Procambarus alleni,Procambarus alleni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Apro.4,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,caridean shrimp,Caridea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,penaeid shrimp,Penaeidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Neanthes,Neanthes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,small bivalves,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,snails,Gastropoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,other,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,filamentous algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0648,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0504,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,leaf parenchema,Plantae,NA,NA,parenchema,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0672,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0384,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Lcyp.1,fecal pellets,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.1,other,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.12,NA,NA,NA,NA,NA,NA,NA,"other includes: ostracods, smalll molluscs, algal filaments, plant detritus, cumaceans",NA,NA,NA,NA
+4o,Grob.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.1,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.1,unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.2,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.2,juvenile mysids,Mysidae ,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.2,cumaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Grob.2,penate diatoms,Pennales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,unidentified,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,cumaceans,Crustacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mgul.1,cladocerans,Cladocera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,"* cladocerans, algal strands, plant detritus, mysids collectively = 10% vol (.1)",NA,NA,NA,NA
+4o,Mgul.1,algal strands,Plantae,NA,NA,strands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,"* cladocerans, algal strands, plant detritus, mysids collectively = 10% vol (.1)",NA,NA,NA,NA
+4o,Mgul.1,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,"* cladocerans, algal strands, plant detritus, mysids collectively = 10% vol (.1)",NA,NA,NA,NA
+4o,Mgul.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,NA,NA,NA,NA,NA,NA,NA,"* cladocerans, algal strands, plant detritus, mysids collectively = 10% vol (.1)",NA,NA,NA,NA
+4o,Bsop.1,Palaemonetes intermedius,Palaemonetes intermedius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bsop.1,chironomids,Chironomidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bsop.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bsop.2,chironomids,Chironomidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Sbar.1,Eucinostomus gula,Eucinostomus gula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Sbar.1,Menidia beryllina,Menidia beryllina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Sbar.1,Archosargus probatocephalus,Archosargus probatocephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Sbar.1,remains of fish,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,hydracarina,Hydrachnidiae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,calanoid copepods,Calanoidia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.2,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,terrestrial insects,Insecta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,zooplankton,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.3,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.4,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.4,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.4,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.4,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.5,planktonic copepods,Copepoda,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.5,crustaceans,Crustacea,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mber.5,eggs,Animalia,NA,NA,NA,egg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.1,Neanthes pelagica,Nereis pelagica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.1,forams,Foraminifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tmac.2,Neanthes,Neanthes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.1,Neanthes pelagica,Nereis pelagica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.1,forams,Foraminifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.2,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.2,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.2,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Alin.2,Neanthes,Neanthes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gstr.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gstr.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gstr.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.1,Chironomid larvae,Chironomidae,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.1,Mysids,Mysidae ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.1,Isopods,Isopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.1,fishes,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,Palaemontes sp.,Palaemontes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,Alpheus heterochaelis,Alpheus heterochaelis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,mussels,Bivalvia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,fish remains,Actinopterygii,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Obet.2,mangrove bark,Malpighiales,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,as large as 5 x 9 mm,NA,NA,NA,NA
+4o,Npel.1,fine detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Npel.1,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Npel.1,harpacticoids,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Npel.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Nsuc.1,fine detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Nsuc.1,algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Nsuc.1,harpacticoids,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Nsuc.1,copepods,Copepoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvari.1,inorganic sediment particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvari.1,vascular plant detritis,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cvari.1,benthic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Limn.1,micro-algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Limn.1,detritus particles,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Acar.1,vascular plant detritis particles,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Acar.1,phytoplankters,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Acar.1,epiphytic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Labi.1,vascular plant detritis particles,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Labi.1,phytoplankters,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Labi.1,epiphytic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cycl.1,vascular plant detritis particles,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cycl.1,phytoplankters,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cycl.1,epiphytic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleuc.1,vascular plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleuc.1,phytoplankton,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleuc.1,epiphytic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleuc.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cleuc.1,unidentified particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bexu.1,unidentified particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bexu.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bexu.1,epiphytic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bexu.1,phytoplankton,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Bexu.1,vascular plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,unrecognized fine particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,micro-algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,animal remains,Animalia,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,fine inorganic particles *,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.41,NA,NA,NA,NA,NA,NA,NA,"fine inorganic particles includes, but not limited to: clay, quartz, broken bits of calcium carbonate",NA,NA,NA,NA
+4o,Pint.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1606,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,leaf material,Plantae,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0132,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0154,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pint.1,bacteria *,Bacteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Pint.1,protozoa *,Protozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Pint.1,fungi *,Fungi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Ppal.1,unrecognized fine particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,micro-algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,animal remains,Animalia,remains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,fine inorganic particles *,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fine inorganic particles includes, but not limited to: clay, quartz, broken bits of calcium carbonate",NA,NA,NA,NA
+4o,Ppal.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,leaf material,Plantae,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ppal.1,bacteria *,Bacteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Ppal.1,protozoa *,Protozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Ppal.1,fungi *,Fungi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,removed from the vascular plant detritus,NA,NA,NA,NA
+4o,Pduo.1,unidentified animals,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,small molluscs,Mollusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,ostracods,Ostracoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,benthic diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,filamentous green and blue-green algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,unidentified fine particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,leaf,Plantae,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Pduo.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,Unrecognizable material,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0336,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,leaf,Plantae,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Ahet.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2296,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,Congeria leucophaeta,Congeria leucophaeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,Brachidontes exustus,Brachidontes exustus,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,Rhithropanopeus harrisii,Rhithropanopeus harrisii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,unidentified fish remains,Actinopterygii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,grains of sand,Sand,NA,NA,grains,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Csap.1,root hairs,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,filamentous algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,Amphipods,Amphipoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,Harpacticoid copepods,Harpacticoida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,unrecognizable animal material,Animalia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,Juncus leaf,Juncus,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0676,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,root material,Plantae,NA,NA,root,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0832,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,bark,Plantae,NA,NA,bark,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,conglomerates,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.0416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Rhar.1,mangrove leaf,Malpighiales,NA,NA,leaf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.2964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.1,fine inorganic detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.1,vascular plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.1,bacteria,Bacteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.1,protozoa,Protozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.2,detritus particles,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Mnit.2,micro-algae,Plantae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Gbon.1,fine detritus particles,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,largely of mangrove leaf origin,NA,NA,NA,NA
+4o,Tbow.1,fine vascular plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tbow.1,copepod parts,Copepoda,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tbow.1,diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tbow.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Tbow.1,unidentifiable particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Malm.1,fine vascular plant detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Malm.1,unidentifiable particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Malm.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Malm.1,diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Malm.1,copepod parts,Copepoda,NA,NA,parts,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,< 0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,organic detritus,Detritus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,mangrove leaf detritus,Malpighiales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,bacteria,Bacteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,ciliates,Ciliophora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,fungi,Fungi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Chir.1,flagellates,Mastigophora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,diatoms,Bacillariophyta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,inorganic particles,Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,organic detritus,Organic Matter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,mangrove leaf detritus,Malpighiales,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,bacteria,Bacteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,ciliates,Ciliophora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,fungi,Fungi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4o,Cric.1,flagellates,Mastigophora,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
