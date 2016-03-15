@@ -39,7 +39,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 11f,Mund.1,none,Micropogon undulatus,187,132,0.7059,55,0.2941,NA,NA,NA,NA,NA,190.5,266.7,228.6,NA,NA,NA,90.71847,226.8,158.76,NA,NA,NA,NA,NA,NA,12,0,NA,NA,187,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11f,Pchr.1,none,Pogonias cromis,109,81,0.7431,28,0.2569,NA,NA,NA,NA,NA,152.4,304.8,228.6,NA,NA,NA,226.7962,680.39,453.59,NA,NA,NA,NA,NA,NA,15,0,NA,NA,109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11f,Soce.1,none,Sciaenops ocellatus,141,110,0.7801,31,0.2199,NA,NA,NA,NA,NA,355.6,508,431.8,NA,NA,NA,453.5924,1133.98,793.79,NA,NA,NA,NA,NA,NA,19,0,NA,NA,147,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-11m,Eall.1,none,Euthynnus alletteratus,2134,1212,0.5679,922,0.4321,NA,NA,NA,NA,FL,172,885,528.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,145,128,65788,NA,2134,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11r,Scav.1,complete,Scomberomorus cavalla,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 11v,Scav.1,complete,Scomberomorus cavalla,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,600,1320,960,NA,NA,NA,1814.37,17690.1,9752.24,NA,NA,NA,NA,NA,NA,1,0,NA,NA,107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 12d,Cneb.1,none,Cynoscion nebulosus,384,84,0.2188,300,0.7813,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,NA,384,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -158,9 +157,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 16b,Gcuv.1,none,Galeocerdo cuvier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16b,Gcuv.2,none,Galeocerdo cuvier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16b,Gcuv.3,none,Galeocerdo cuvier,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-16m,Pchr.1,none,Pogonias cromis,159,72,0.4528,87,0.5472,NA,NA,NA,NA,NA,104,714,409,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,7,91,NA,159,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-16m,Pchr.2,none,Pogonias cromis,142,86,0.6056,56,0.3944,NA,NA,NA,NA,NA,62,1195,628.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,15,209,NA,142,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-16m,Pchr.3,none,Pogonias cromis,NA,NA,0.55,NA,0.45,NA,NA,NA,NA,NA,263,428,385,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16r,Cchr.1,complete,Chloroscombrus chrysurus,66,61,0.9242,5,0.0758,NA,NA,NA,adult,SL,101,150,125.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,17,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16r,Cchr.1,none,Chloroscombrus chrysurus,66,61,0.9242,5,0.0758,NA,NA,NA,adult,SL,101,150,125.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,17,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 16r,Cchr.2,size,Chloroscombrus chrysurus,26,23,0.8846,3,0.1154,NA,NA,NA,adult,SL,101,125,113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -247,20 +243,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 22g,Bpat.1,none,Brevoortia patronis,1062,517,0.4868,545,0.5132,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,0,NA,NA,1062,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 22g,Lxan.1,none,Leiostomus xanthurus,187,136,0.7273,51,0.2727,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0,NA,NA,187,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 22g,Mund.1,none,Micropogonias undulatus,228,92,0.4035,136,0.5965,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0,NA,NA,228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Afel.1,none,Arius felis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Amit.1,none,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,2318,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Bchr.1,none,Bairdiella chrysura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Bgun.1,none,Brevoortia gunteri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Bmar.1,none,Bagre marinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,140,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Bpat.1,none,Brevoortia patronus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,0,NA,NA,745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Care.1,none,Cynoscion arenarius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Dcep.1,none,Dorosoma cepedianum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Dpet.1,none,Dorosoma petenense,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Ifur.1,none,Ictalurus furcatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Lxan.1,none,Leiostomus xanthurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Mund.1,none,Micropogon undulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,1053,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Poct.1,none,Polydactylus octonemus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-23d,Ppor.1,none,Porichthys porosissimus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 24d,Cchr.1,complete,Chloroscombrus chrysurus,32,7,0.2188,25,0.7813,NA,NA,NA,adult,SL,99,172,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 24d,Cchr.1,none,Chloroscombrus chrysurus,32,7,0.2188,25,0.7813,NA,NA,NA,adult,SL,99,172,135.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 24d,Dpun.1,complete,Decapterus punctatus,20,3,0.15,17,0.85,NA,NA,NA,adult,SL,133,170,151,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1101,64 +1083,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 35r,Uflo.9,size,Urophycis floridanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,81,100,90.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 36c,Bpat.1,none,Brevoortia patronis,26,NA,NA,NA,NA,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 36c,Eter.1,none,Etrumeus teres,56,NA,NA,NA,NA,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,419,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.1,location/month,Lutjanus campechanus,55,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,NA,NA,collected Orange Beach Station in Oct. 1978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.10,life history/season,Lutjanus campechanus,106,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,NA,NA,collected Orange Beach Station - separated by seasonson - fall - from 2 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.11,life history/season,Lutjanus campechanus,14,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected Orange Beach Station - separated by seasonson - winter - from 1 station,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.12,life history/season,Lutjanus campechanus,77,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,NA,NA,collected Orange Beach Station - separated by seasonson - spring - from 3 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.13,life history/season,Lutjanus campechanus,92,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,NA,NA,collected Orange Beach Station - separated by seasonson - summer - from 3 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.14,life history/season,Lutjanus campechanus,4,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected Orange Beach Station - separated by seasonson - fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.15,life history/season,Lutjanus campechanus,2,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,collected Orange Beach Station - separated by seasonson - winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.16,life history/season,Lutjanus campechanus,11,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,collected Orange Beach Station - separated by seasonson - spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.17,life history/season,Lutjanus campechanus,17,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected Orange Beach Station - separated by seasonson - summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.18,size,Lutjanus campechanus,12,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,126,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,collected Orange Beach Station - separated by size - from 4 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.19,size,Lutjanus campechanus,56,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,151,175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,NA,NA,collected Orange Beach Station - separated by size - from 8 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.2,location/month,Lutjanus campechanus,51,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,collected Orange Beach Station in Nov. 1978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.20,size,Lutjanus campechanus,92,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,176,200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,NA,NA,collected Orange Beach Station - separated by size - from 8 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.21,size,Lutjanus campechanus,79,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,201,225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,NA,NA,collected Orange Beach Station - separated by size - from 9 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.22,size,Lutjanus campechanus,51,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,226,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,NA,NA,collected Orange Beach Station - separated by size - from 6 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.23,size,Lutjanus campechanus,16,NA,NA,NA,NA,NA,NA,NA,adult,SL,251,275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected Orange Beach Station - separated by size - from 7 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.24,size,Lutjanus campechanus,5,NA,NA,NA,NA,NA,NA,NA,adult,SL,276,300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected Orange Beach Station - separated by size - from 4 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.25,size,Lutjanus campechanus,6,NA,NA,NA,NA,NA,NA,NA,adult,SL,301,325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected Orange Beach Station - separated by size - from 3 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.26,size,Lutjanus campechanus,3,NA,NA,NA,NA,NA,NA,NA,adult,SL,326,350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected Orange Beach Station - separated by size - from 2 stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.27,size,Lutjanus campechanus,1,NA,NA,NA,NA,NA,NA,NA,adult,SL,351,375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,collected Orange Beach Station - separated by size - from 1 station,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.28,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected Orange Beach Station - separated by time of year - Nov. 1978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.29,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected Orange Beach Station - separated by time of year - Feb. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.3,location/month,Lutjanus campechanus,14,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,collected Orange Beach Station in Feb. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.30,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,collected Orange Beach Station - separated by time of year - Mar. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.31,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,collected Orange Beach Station - separated by time of year - May 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.32,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected Orange Beach Station - separated by time of year - June 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.33,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected Orange Beach Station - separated by time of year - July 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.34,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,collected Orange Beach Station - separated by time of year - Aug. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.35,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,collected Orange Beach Station - separated by time of year - Aug. 1978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.36,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,collected on hook and line at Destin in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.37,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,collected on hook and line at Destin in the spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.38,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected on hook and line at Destin in the spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.39,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,collected on hook and line at Tampa in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.4,location/month,Lutjanus campechanus,28,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected Orange Beach Station in Mar. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.40,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,collected on hook and line at Tampa in the fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.41,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected on hook and line at Tampa in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.42,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,collected on hook and line at Pensacola in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.43,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,collected on hook and line at ? In the spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.44,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected in trawl at Louisiana in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.45,location/month,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,NA,collected in trawl at Louisiana in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.5,location/month,Lutjanus campechanus,21,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,collected Orange Beach Station in May 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.6,location/month,Lutjanus campechanus,32,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,NA,NA,collected Orange Beach Station in June 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.7,location/month,Lutjanus campechanus,17,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,collected Orange Beach Station in July 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.8,location/month,Lutjanus campechanus,46,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,collected Orange Beach Station in Aug. 1979,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lcam.9,location/month,Lutjanus campechanus,29,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,NA,NA,collected Orange Beach Station in Aug. 1978,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lsyn.1,location/season,Lutjanus synagris,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected on hook and line at Orange Beach in the fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lsyn.2,location/season,Lutjanus synagris,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,collected in trawl at Louisiana in the fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Lsyn.3,location/season,Lutjanus synagris,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,collected in trawl at Louisiana in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.1,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,collected on hook and line at Destin in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.10,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,NA,NA,collected in trawl at Louisiana in the fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.2,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,NA,NA,collected on hook and line at Destin in the spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.3,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,collected on hook and line at Orange Beach in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.4,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,NA,collected on hook and line at Orange Beach in the summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.5,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,collected on hook and line at Orange Beach in the fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.6,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,collected on hook and line at Orange Beach in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.7,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,collected on hook and line at Orange Beach in the spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.8,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,collected in trawl at Pensacola in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-36s,Raur.9,location/season,Rhomboplites aurorubens,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,NA,NA,collected in trawl at Pensacola in the winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 37c ,Cneb.1,none,Cynoscion nebulosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 38c,Cneb.1,none,Cynoscion nebulosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 38c,Pcro.1,none,Pogonias cromis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1197,33 +1121,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 42s,Soce.2,size,Sciaenops ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,young,NA,100,175,137.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.3,none,Sciaenops ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 42s,Soce.3,location,Sciaenops ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.1,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,1972 - separated by seasonson - summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.10,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,51,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,5,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.11,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,76,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,7,17,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.12,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,101,125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,4,7,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.13,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,126,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,5,8,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.14,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,151,175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,3,7,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.15,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,176,200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,1,2,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.16,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,201,225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2,4,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.17,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,226,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.18,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,251,275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.19,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,301,325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.2,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,1972 - separated by seasonson - fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.20,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,"1970 & 1971 - separated by life hist stage (juvenile), location (trawl) and seasonson (spring)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.21,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,"1970 & 1971 - separated by life hist stage (juvenile), location (trawl) and seasonson (summer)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.22,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,"1970 & 1971 - separated by life hist stage (juvenile), location (trawl) and seasonson (fall)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.23,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,"1970 & 1971 - separated by life hist stage (juvenile), location (trawl) and seasonson (winter)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.24,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,"1970 & 1971 - separated by life hist stage (adult), location (trawl) and seasonson (spring)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.25,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,"1970 & 1971 - separated by life hist stage (adult), location (trawl) and seasonson (summer)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.26,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,"1970 & 1971 - separated by life hist stage (adult), location (trawl) and seasonson (fall)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.27,life history/location/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,"1970 & 1971 - separated by life hist stage (adult), location (trawl) and seasonson (winter)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.3,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,1972 - separated by seasonson - winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.4,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,1972 - separated by seasonson - spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.5,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,1972 - separated by seasonson - summer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.6,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,1972 - separated by seasonson - fall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.7,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,1972 - separated by seasonson - winter,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.8,life history/season,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,adult,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,1972 - separated by seasonson - spring,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-43b,Lcam.9,life history/size,Lutjanus campechanus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,FL,25,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,2,1972 - separated by length,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43c,Cacr.1,none,Carcharhinus acronotus,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,450,1170,810,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,sex data: 21M : 16F : 24U,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43c,Cleu.1,none,Carcharhinus leucas,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,880,2640,1760,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,sex data: 62M : 63F : 10U,135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 43c,Clim.1,none,Carcharhinus limbatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,780,1910,1345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,sex data:  19M : 38F : 7 U,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1292,94 +1189,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 48s,Stib.1,none,Sphyrna tiburo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,10-25 m deep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 49s,Nbre.1,none,Negaprion brevirostris,NA,NA,NA,NA,NA,NA,both,NA,adult,TL,NA,NA,2584.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,"140 = 103 M from 89-110 in, 37 F from 92-112 in & 79 = 10 M from 93-109 in, 69 F from 93-108",219,NA,1.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 49s,Nbre.1,none,Negaprion brevirostris,219,NA,NA,NA,NA,NA,M/F,1.07,Adult,TL,NA,NA,2584.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,113 M :  106 F ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Agru.1,none,Aplodinotus grunniens,5,4,0.8,1,0.2,NA,NA,NA,NA,NA,211,347,279,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Amit.1,size,Anchoa mitchilli diaphana,15,13,0.8667,2,0.1333,NA,NA,NA,NA,NA,30,44,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Amit.2,size,Anchoa mitchilli diaphana,25,21,0.84,4,0.16,NA,NA,NA,NA,NA,45,49,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Amit.3,size,Anchoa mitchilli diaphana,22,19,0.8636,3,0.1364,NA,NA,NA,NA,NA,50,54,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Amit.4,size,Anchoa mitchilli diaphana,19,18,0.9474,1,0.0526,NA,NA,NA,NA,NA,55,59,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Amit.5,size,Anchoa mitchilli diaphana,11,10,0.9091,1,0.0909,NA,NA,NA,NA,NA,60,74,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Aovi.1,none,Archosargus oviceps,11,11,1,0,0,NA,NA,NA,NA,NA,218,410,314,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Bchr.1,none,Bairdiella chrysura,41,20,0.4878,21,0.5122,NA,NA,NA,NA,NA,70,143,106.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0,NA,NA,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Bmar.1,raw,Barge marina,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Bpat.1,size,Brevoortia patronus,5,5,1,0,0,NA,NA,NA,NA,NA,38,48,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Bpat.2,size,Brevoortia patronus,12,12,1,0,0,NA,NA,NA,NA,NA,85,123,104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Care.1,size,Cynoscion arenarius,22,18,0.8182,4,0.1818,NA,NA,NA,NA,NA,40,99,69.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Care.2,size,Cynoscion arenarius,29,21,0.7241,8,0.2759,NA,NA,NA,NA,NA,100,149,124.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Care.3,size,Cynoscion arenarius,13,8,0.6154,5,0.3846,NA,NA,NA,NA,NA,150,225,187.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Chip.1,raw,Caranx hippos,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cleu.1,raw,Carcharhinus leucas,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,780,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,Fishes made up over 90% of food encountered in both sharks with food content in stomachs,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cleu.2,raw,Carcharhinus leucas,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,805,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,13,Fishes made up over 90% of food encountered in both sharks with food content in stomachs,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cleu.3,raw,Carcharhinus leucas,1,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cneb.1,size,Cynoscion nebulosus,10,9,0.9,1,0.1,NA,NA,NA,NA,NA,40,99,69.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cneb.2,size,Cynoscion nebulosus,17,14,0.8235,3,0.1765,NA,NA,NA,NA,NA,100,149,124.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cneb.3,size,Cynoscion nebulosus,10,8,0.8,2,0.2,NA,NA,NA,NA,NA,150,199,174.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Cneb.4,size,Cynoscion nebulosus,29,17,0.5862,12,0.4138,NA,NA,NA,NA,NA,200,406,303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Csap.1,size,Callinectes sapidus,29,24,0.8276,5,0.1724,NA,NA,NA,NA,NA,30,74,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Csap.2,size,Callinectes sapidus,31,27,0.871,4,0.129,NA,NA,NA,NA,NA,75,124,99.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0,NA,NA,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Csap.3,size,Callinectes sapidus,24,23,0.9583,1,0.0417,NA,NA,NA,NA,NA,125,147,136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Csap.4,size,Callinectes sapidus,40,29,0.725,11,0.275,NA,NA,NA,NA,NA,148,197,172.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Dcep.1,none,Dorosoma cepedianum,11,11,1,0,0,NA,NA,NA,NA,NA,101,278,189.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Esau.1,none,Elops saurus,16,5,0.3125,11,0.6875,NA,NA,NA,NA,NA,161,280,220.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Gfel.1,size,Galeichthys felis,19,19,1,0,0,NA,NA,NA,NA,NA,90,169,129.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Gfel.2,size,Galeichthys felis,21,17,0.8095,4,0.1905,NA,NA,NA,NA,NA,170,229,199.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ifur.1,size,Ictalurus furcatus,18,15,0.8333,3,0.1667,NA,NA,NA,NA,NA,60,129,94.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ifur.2,size,Ictalurus furcatus,18,16,0.8889,2,0.1111,NA,NA,NA,NA,NA,130,199,164.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0,NA,NA,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ifur.3,size,Ictalurus furcatus,17,15,0.8824,2,0.1176,NA,NA,NA,NA,NA,200,229,214.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ifur.4,size,Ictalurus furcatus,25,23,0.92,2,0.08,NA,NA,NA,NA,NA,230,411,320.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,6,47,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ipun.1,size,Ictalurus punctatus,11,11,1,0,0,NA,NA,NA,NA,NA,76,119,97.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Ipun.2,size,Ictalurus punctatus,2,2,1,0,0,NA,NA,NA,NA,NA,207,312,259.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Loxy.1,none,Lepisosteus osseus oxyurus,8,4,0.5,4,0.5,NA,NA,NA,NA,NA,706,1180,943,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,98% of stmach contents were small fish and the remaining 2% of miscellaneous invertebrates and  items. ,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lpro.1,none,Lepisosteus productus,9,7,0.7778,2,0.2222,NA,NA,NA,NA,NA,405,555,480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lrho.1,size,Lagodon rhomboides,20,20,1,0,0,NA,NA,NA,NA,NA,40,64,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lrho.2,size,Lagodon rhomboides,21,21,1,0,0,NA,NA,NA,NA,NA,65,74,69.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lrho.3,size,Lagodon rhomboides,25,24,0.96,1,0.04,NA,NA,NA,NA,NA,75,99,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lrho.4,size,Lagodon rhomboides,20,19,0.95,1,0.05,NA,NA,NA,NA,NA,100,124,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lrho.5,size,Lagodon rhomboides,15,15,1,0,0,NA,NA,NA,NA,NA,125,150,137.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lspa.1,none,Lepisosteus spatula,5,3,0.6,2,0.4,NA,NA,NA,NA,NA,903,1472,1187.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,On occasion these predators were observed feeding upon extensive schools of striped mullets,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lxan.1,size,Leiostomus xanthurus,22,18,0.8182,4,0.1818,NA,NA,NA,NA,NA,40,99,69.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0,NA,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lxan.2,size,Leiostomus xanthurus,38,28,0.7368,10,0.2632,NA,NA,NA,NA,NA,100,149,124.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0,NA,NA,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Lxan.3,size,Leiostomus xanthurus,28,20,0.7143,8,0.2857,NA,NA,NA,NA,NA,150,203,176.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mber.1,size,Menidia beryllina,21,19,0.9048,2,0.0952,NA,NA,NA,NA,NA,40,54,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mber.2,size,Menidia beryllina,20,20,1,0,0,NA,NA,NA,NA,NA,55,64,59.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mber.3,size,Menidia beryllina,19,16,0.8421,3,0.1579,NA,NA,NA,NA,NA,65,79,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,0,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mcep.1,none,Mugil cephalus,57,54,0.9474,3,0.0526,NA,NA,NA,NA,NA,97,327,212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,Field observations indicated that striped mullet do feed at the surface and schools were occassionally observed to be actively feeding upon surface scums of Anabaena sp. which were seasonlly abundant.,57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mint.1,none,Morone interrupta,27,18,0.6667,9,0.3333,NA,NA,NA,NA,NA,130,195,162.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mohi.1,none,Macrobrachium ohione,10,10,1,0,0,NA,NA,NA,NA,NA,48,81,64.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Msal.1,none,Micropterus s. salmoides,3,2,0.6667,1,0.3333,NA,NA,NA,NA,NA,175,209,192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2,6,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.1,size,Micropogon undulatus ,17,15,0.8824,2,0.1176,NA,NA,NA,NA,NA,10,24,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.2,size,Micropogon undulatus ,26,26,1,0,0,NA,NA,NA,NA,NA,25,49,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.3,size,Micropogon undulatus ,20,20,1,0,0,NA,NA,NA,NA,NA,50,74,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.4,size,Micropogon undulatus ,14,10,0.7143,4,0.2857,NA,NA,NA,NA,NA,75,99,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.5,size,Micropogon undulatus ,30,28,0.9333,2,0.0667,NA,NA,NA,NA,NA,100,124,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.6,size,Micropogon undulatus ,25,24,0.96,1,0.04,NA,NA,NA,NA,NA,125,149,137,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.7,size,Micropogon undulatus ,21,18,0.8571,3,0.1429,NA,NA,NA,NA,NA,150,199,174.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Mund.8,size,Micropogon undulatus ,23,19,0.8261,4,0.1739,NA,NA,NA,NA,NA,200,325,262.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Pcro.1,none,Pogonias cromis,24,20,0.8333,4,0.1667,NA,NA,NA,NA,NA,116,218,167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Plet.1,none,Paralichthys lethostigma ,19,14,0.7368,5,0.2632,NA,NA,NA,NA,NA,113,380,246.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Pset.1,none,Penaeus setiferus,10,10,1,0,0,NA,NA,NA,NA,NA,91,142,116.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Rbon.1,raw,Rhinoptera bonasus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Rcun.1,none,Rangia cuneata,3,3,1,0,0,NA,NA,NA,NA,NA,35,38,36.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Smar.1,none,Strongylura marina ,7,7,1,0,0,NA,NA,NA,NA,NA,357,457,407,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,"This fish was frequently observed to be active near the water surface in deeper water throughout the lake where it muist feed on anchoivies and yound clupeids, although stomach analyses show that it does forage in the weedy shallows of Lake Pontchartrain. ",7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Soce.1,none,Sciaenops ocellata,17,12,0.7059,5,0.2941,NA,NA,NA,NA,NA,184,625,404.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Spet.1,none,Signalosa petenensis,5,3,0.6,2,0.4,NA,NA,NA,NA,NA,63,103,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4d,Tmac.1,none,Trinectes maculatus fasciatus,10,3,0.3,7,0.7,NA,NA,NA,NA,NA,61,74,67.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Apro.1,raw,Archosargus probatocephalus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Bcap.1,none,Balistes capriscus,10,9,0.9,1,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,13,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Cfab.1,none,Chaetodipterus faber,20,11,0.55,9,0.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,6,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Clat.1,none,Caranx latus,7,1,0.1429,6,0.8571,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Eads.1,none,Epinephelus adsecensionis,8,7,0.875,1,0.125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5,11,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Haur.1,none,Haemulon aurolineatum,10,4,0.4,6,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Hbiv.1,none,Halichores bivittatus,3,3,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,3,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Hcau.1,none,Halichores caudalis,5,4,0.8,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Lcam.1,none,Lutjanus campechanus,389,292,0.7506,97,0.2494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Mrub.1,none,Mycteroperca rubra,5,4,0.8,1,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Oden.1,none,Odontoscion dentex,4,3,0.75,1,0.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Opar.1,none,Opsanus pardus,10,10,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,15,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Pacu.1,none,Pareques acuminatus,10,8,0.8,2,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,14,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Pvar.1,none,Pomacentrus variabilis,4,0,0,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Rcan.1,none,Rachycentron canadum,2,2,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,8,18,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Rsap.1,none,Rypticus saponaceus,25,19,0.76,6,0.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,7,25,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4f,Ssub.1,none,Serranus subligarius,26,22,0.8462,4,0.1538,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,14,68,Note: only decapods were recorded from stomach analysis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Achi.1,none,Acanthurus chirurgus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,Exclusively herbivores,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Anar.1,none,Aetobatus narinari,NA,NA,NA,NA,NA,NA,NA,NA,NA,Width,1000,1500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,Stomach content not recorded; Both individuals had several Echeneis attached.,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Aoce.1,none,Antennarius ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,SL,20,102.6,61.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1425,34 +1234,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 4h,Uflo.7,raw,Urophycis floridanus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,2,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.8,raw,Urophycis floridanus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4h,Uflo.9,raw,Urophycis floridanus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4l,Afel.1,location/season,Arius felis,99,99,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,0,NA,collected from Weeks Island stations during Summer 1978,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18709.2,NA
-4l,Afel.2,location/season,Arius felis,54,54,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,22,0,NA,collected from Weeks Island stations during Fall 1978,729,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,125945.5,NA
-4l,Afel.3,location/season,Arius felis,59,59,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,0,NA,collected from Weeks Island stations during Spring 1979,272,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52686.8,NA
-4l,Afel.4,location/season,Arius felis,96,96,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,0,NA,collected from West Hackberry stations during Fall 1978,617,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6100.5,NA
-4l,Afel.5,location/season,Arius felis,62,62,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,0,NA,collected from West Hackberry stations during Spring 1979,136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21129.2,NA
-4l,Amit.1,location/season,Anchoa mitchilli,60,60,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0,NA,collected from West Hackberry stations during Winter 1979,448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,834.2,NA
-4l,Amit.2,location/season,Anchoa mitchilli,61,61,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,collected from Weeks Island stations during Winter 1979,361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,707.4,NA
-4l,Bpat.1,location/season,Brevoortia patronus,53,53,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,collected from West Hackberry stations during Winter 1979,645,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7103.9,NA
-4l,Bpat.2,location/season,Brevoortia patronus,55,55,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,collected from West Hackberry stations during Spring 1979,202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5993.5,NA
-4l,Care.1,location/season,Cynoscion arenarius,60,60,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,0,NA,collected from West Hackberry stations during Summer 1978,521,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7272.2,NA
-4l,Care.2,location/season,Cynoscion arenarius,50,50,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,0,NA,collected from West Hackberry stations during Fall 1978,118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9863.3,NA
-4l,Cnot.1,location/season,Cynoscion nothus,51,51,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,Collected from West Hackberry stations during Summer 1978,222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6178.8,NA
-4l,Cnot.2,location/season,Cynoscion nothus,52,52,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,0,NA,Collected from West Hackberry stations during Fall 1978,148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,274.6,NA
-4l,Cnot.3,location/season,Cynoscion nothus,57,57,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0,NA,Collected from West Hackberry stations during Spring 1979,313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3255.5,NA
-4l,Mame.1,location/season,Menticirrhus americanus,53,53,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,collected from Weeks Island stations during Winter 1979,429,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7452.2,NA
-4l,Mame.2,location/season,Menticirrhus americanus,63,63,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,collected from Weeks Island stations during Spring 1979,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12973.2,NA
-4l,Mund.1,location/season,Micropogonias undulatus,58,58,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,Collected from West Hackberry stations during Summer 1978,3326,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40873.9,NA
-4l,Mund.2,location/season,Micropogonias undulatus,99,99,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,0,NA,Collected from West Hackberry stations during Fall 1978,729,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31527.2,NA
-4l,Mund.3,location/season,Micropogonias undulatus,51,51,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0,NA,Collected from West Hackberry stations during Spring 1979,6906,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32290.3,NA
-4l,Ptri.1,location/season,Prionotus tribulus,22,22,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0,NA,collected from Weeks Island stations during Summer 1978,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,722.7,NA
-4l,Ptri.2,location/season,Prionotus tribulus,24,24,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0,NA,collected from Weeks Island stations during Fall 1978,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1197.5,NA
-4l,Ptri.3,location/season,Prionotus tribulus,50,50,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,collected from Weeks Island stations during Winter 1979,775,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1333.4,NA
-4l,Ptri.4,location/season,Prionotus tribulus,60,60,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,0,NA,collected from Weeks Island stations during Spring 1979,317,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2052.6,NA
-4l,Slan.1,location/season,Stellifer lanceolatus,65,65,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,collected from Weeks Island stations during Winter 1979,961,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3932.2,NA
-4l,Slan.2,location/season,Stellifer lanceolatus,61,61,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,0,NA,collected from West Hackberry stations during Summer 1978,916,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10653.8,NA
-4l,Slan.3,location/season,Stellifer lanceolatus,56,56,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17,0,NA,collected from West Hackberry stations during Fall 1978,517,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7585.7,NA
-4l,Slan.4,location/season,Stellifer lanceolatus,58,58,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,collected from West Hackberry stations during Winter 1979,2658,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8600.7,NA
-4l,Slan.5,location/season,Stellifer lanceolatus,61,61,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,0,NA,collected from West Hackberry stations during Spring 1979,160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1233.2,NA
 4p,Cneb.1,size,Cynoscion nebulosus ,86,NA,NA,NA,NA,NA,U,NA,NA,TL,6,15,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4p,Cneb.2,size,Cynoscion nebulosus ,30,NA,NA,NA,NA,NA,U,NA,NA,TL,16,30,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4p,Cneb.3,size,Cynoscion nebulosus ,104,NA,NA,NA,NA,NA,U,NA,NA,TL,31,60,45.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1468,24 +1249,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 4p,Soce.3,size,Sciaenops ocellatus,43,NA,NA,NA,NA,NA,U,NA,NA,TL,31,46,38.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4p,Soce.4,size,Sciaenops ocellatus,4,NA,NA,NA,NA,NA,U,NA,NA,TL,47,68,57.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 4p,Soce.5,none,Sciaenops ocellatus,236,NA,NA,NA,NA,NA,U,NA,NA,NA,6,68,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,NA,236,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Cstr.1,size,Centropristis striata,127,NA,NA,NA,NA,NA,NA,NA,adult,SL,100,200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Cstr.2,size,Centropristis striata,52,NA,NA,NA,NA,NA,NA,NA,adult,SL,200,270,235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Emor.1,size,Epinephelus morio,11,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,100,200,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Emor.2,size,Epinephelus morio,35,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,200,300,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Emor.3,size,Epinephelus morio,77,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,300,400,350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Emor.4,size,Epinephelus morio,54,NA,NA,NA,NA,NA,NA,NA,adult,SL,400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.1,size,Mycteroperca microlepis,19,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,100,200,150,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.10,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,300,400,350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,winter - late Oct to March,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.11,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,adult,SL,400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,summer - Apr to late Sept,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.12,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,adult,SL,400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,winter - late Oct to March,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.2,size,Mycteroperca microlepis,108,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,200,300,250,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.3,size,Mycteroperca microlepis,79,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,300,400,350,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.4,size,Mycteroperca microlepis,33,NA,NA,NA,NA,NA,NA,NA,adult,SL,400,NA,NA,NA,NA,3+,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.5,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,100,200,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,summer - Apr to late Sept,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.6,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,100,200,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,winter - late Oct to March,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.7,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,200,300,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,summer - Apr to late Sept,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.8,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,200,300,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,0,NA,winter - late Oct to March,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4w,Mmic.9,size and season,Mycteroperca microlepis,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,SL,300,400,350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,summer - Apr to late Sept,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 51b,Aaff.1,raw,Aldrovandia affinis,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,9,17,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 51b,Aaff.2,raw,Aldrovandia affinis,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,4,10,Intestine length - 105,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 51b,Aaff.3,raw,Aldrovandia affinis,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,41,Intestine length - 83,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1812,8 +1575,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 7j,Lbla.7,location (areas),Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.8,location (areas),Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 7j,Lbla.9,location (areas),Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7m,Talb.1,none,Thunnus albacares,169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,97,84,26631,NA,206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-7m,Tatl.1,none,Thunnus atlanticus,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,69,63,4568,NA,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85s,Afel.1,raw,Arius felis,1,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study only focuses on echinoderms in stomach contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85s,Apro.1,none,Archosargus probatocephalus,2,2,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study only focuses on echinoderms in stomach contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 85s,Bbar.1,raw,Brotula barbata,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,study only focuses on echinoderms in stomach contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1866,32 +1627,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 8j,Lbla.7,none,Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8j,Lbla.8,none,Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8j,Lbla.9,none,Lutjanus blackfordi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Ascr.1,none,Aluterus scriptus,2,2,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45.2,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Bcap.1,none,Balistes capriscus,149,108,0.725,41,0.275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,643.1,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Cnod.1,none,Calamus nodosus,33,21,0.636,12,0.364,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,63.9,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Cpar.1,none,Clepticus parre,3,2,0.667,1,0.333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Cpul.1,none,Cantherhines pullus,3,3,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Dine.1,none,Dermatolepis inermis,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11.1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Eads.1,none,Epinephelus adsecensionis,10,5,0.5,5,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37.9,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Efla.1,none,Epinephelus flavolimbatus,3,3,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8.3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Egut.1,none,Epinephelus guttatus,5,1,0.2,4,0.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Eniv.1,none,Epinephelus niveatus,2,1,0.5,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Hcil.1,none,Holocanthus cilarus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Hmel.1,none,Haemulon melanrum,683,445,0.652,238,0.348,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,271.8,104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Kinc.1,none,Kyphosus incisor,6,6,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100.7,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Ksec.1,none,Kyphosus secatrix,3,3,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12.4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Lbuc.1,none,Lutjanus buccanella,4,2,0.5,2,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Lcam.1,none,Lutjanus campechanus,350,197,0.563,153,0.437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1417.6,80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Lmax.1,none,Lachnolaimus maximus,3,1,0.333,2,0.667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Lsyn.1,none,Lutjanus synagris,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,*,NA,NA,"* = nothing in stomach, only in intestine",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Ltri.1,none,Lactophrys triqueter,2,1,0.5,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Maur.1,none,Mullus auratus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Mmic.1,none,Mycteroperca microlepis,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Myct.1,none,Mycteroperca spp.,50,24,0.48,26,0.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,259.3,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Pfur.1,none,Paranthias furcifer,336,268,0.798,68,0.202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,70.4,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Ppag.1,none,Pagrus pagrus,161,138,0.857,23,0.143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,316,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Raur.1,none,Rhomboplites aurorubens,906,701,0.774,205,0.226,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,736.4,113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-8n,Saur.1,none,Sparisoma aurofrenatum,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0.8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8w,Amit.1,none,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,FL,33,56,44.5,NA,NA,NA,2867,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,7318,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8w,Bpat.1,none,Brevoortia patronis,NA,NA,NA,NA,NA,NA,NA,NA,NA,FL,35,97,66,NA,NA,NA,35464,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,89634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 8w,Lpar.1,none,Lucania parva,NA,NA,NA,NA,NA,NA,NA,NA,NA,TL,21,32,26.5,NA,NA,NA,2076,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,8627,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4952,121 +4687,6 @@ REF_ID,PRED_ID,DATA_AGGR_CODE,PRED_SCI_NAME,TOT_PRED_STOM_EXAM,TOT_W_FD,PCT_W_FD
 23t,Kalb.34,raw,Kajikia albida,1,1,1,0,0,NA,NA,NA,larval,SL,NA,NA,2.728923,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,"Caught: June 2006, Trip 4, Station 81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23t,Kalb.35,raw,Kajikia albida,1,1,1,0,0,NA,NA,NA,larval,SL,NA,NA,11.56478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,"Caught: June 2006, Trip 4, Station 97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 23t,Kalb.36,raw,Kajikia albida,1,0,0,1,1,NA,NA,NA,larval,SL,NA,NA,2.926575,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,"Caught: Aug 2006, Trip 5, Station 13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cleu.1,none,Carcharhinus leucas,13,6,0.4615,7,0.5385,NA,NA,NA,NA,TL,1020,1620,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Esau.1,size,Elops saurus,6,5,0.8333,1,0.1667,NA,NA,NA,NA,NA,19,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Esau.2,size,Elops saurus,28,9,0.3214,19,0.6786,NA,NA,NA,NA,NA,NA,346,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Esau.3,size,Elops saurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Hpen.1,size,Harengula pensacolae,45,32,0.7111,13,0.2889,NA,NA,NA,NA,NA,64,96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,collected between Dec. 1967 and March 1968 at Station A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Hpen.2,size,Harengula pensacolae,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Amit.1,size/location,Anchoa mitchilli,17,NA,NA,NA,NA,NA,NA,NA,larval and young,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,collected at North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Amit.2,size/location,Anchoa mitchilli,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,collected throughout the year at stations A and B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Amit.3,size/location,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,collected at Whitewater Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Amit.4,size/location,Anchoa mitchilli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,collected at Whitewater Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Sfoe.1,raw,Synodus foetens,1,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Sfoe.2,raw,Synodus foetens,1,0,0,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Afel.2,size,Arius felis,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Afel.3,size,Arius felis,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,205,331,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,collected throughout the year at all stations,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bmar.1,none,Bagre marinus,8,5,0.63,3,0.38,NA,NA,NA,NA,NA,262,445,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,collected in the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Aros.1,diel,Anguilla rostrata,8,0,0,8,1,NA,NA,NA,NA,NA,181,472,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,collected from North River in daytime,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Aros.2,diel,Anguilla rostrata,4,4,1,0,0,NA,NA,NA,NA,NA,181,472,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,collected from Nnorth River at night,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Fcon.1,none,Fundulus confluentus,4,4,1,0,0,NA,NA,NA,NA,NA,15,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,taken in December,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Fgra.1,size,Fundulus grandis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Fgra.2,size,Fundulus grandis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Fgra.3,size,Fundulus grandis,1,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cvar.1,none,Cyprinodon variegatus,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,taken from the Juncus marsh pools of the North River system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Fcar.1,none,Floridichthys carpio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,0,NA,collected routinely throughout the year,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Axen.1,none,Adinia xenica,28,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,from the Juncus march station,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpar.1,size,Lucania parva,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,taken from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpar.2,season,Lucania parva,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,dry season (January - May),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpar.3,season,Lucania parva,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,wet season (June - December),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lgoo.1,none,Lucania goodei,12,8,0.67,4,0.33,NA,NA,NA,NA,NA,18,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Gaff.1,none,Gambusa affinis,107,87,0.81,20,0.19,NA,NA,NA,NA,NA,14,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Plat.1,none,Poecilia latipinna,224,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Hfor.1,none,Heterandria formosa,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Eita.1,raw,Epinephelus itajara,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,from the mouth of the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Eita.2,raw,Epinephelus itajara,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,232,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,from the mouth of the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lgri.1,diel,Lutjanus griseus,74,60,0.81,14,0.19,NA,NA,NA,NA,NA,95,254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from the North River - day,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lgri.2,diel,Lutjanus griseus,38,36,0.95,2,0.05,NA,NA,NA,NA,NA,95,254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,from the North River - night,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lgri.3,raw,Lutjanus griseus,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,141,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lgri.4,none,Lutjanus griseus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpun.1,size,Lepomis punctatus,8,8,1,0,0,NA,NA,NA,NA,NA,14,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,taken from the North River in November,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpun.2,size,Lepomis punctatus,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpun.3,size,Lepomis punctatus,32,27,0.84,5,0.16,NA,NA,NA,NA,NA,28,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,taken beteen May 1968 and February 1969 at Stations B and C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lpun.4,size,Lepomis punctatus,23,19,0.83,4,0.17,NA,NA,NA,NA,NA,77,121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,taken beteen May 1968 and February 1969 at Stations B and C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Chip.1,none,Caranx hippos,22,6,0.27,16,0.73,NA,NA,NA,NA,NA,147,241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,from the North River - the six with food were all from traps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Osau.1,none,Oligoplites saurus,24,0,0,24,1,NA,NA,NA,NA,NA,162,247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,from the North River and its mangrove lined ponds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Osau.2,raw,Oligoplites saurus,1,1,1,0,0,NA,NA,NA,juvenile,NA,NA,NA,29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Egul.1,season,Eucinostomus gula,46,38,0.83,8,0.17,NA,NA,NA,NA,NA,35,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,taken from January to May,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Egul.2,season,Eucinostomus gula,87,74,0.85,13,0.15,NA,NA,NA,NA,NA,19,54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,taken from June to December,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Earg.1,season,Eucinostomus argenteus,51,42,0.82,9,0.18,NA,NA,NA,NA,NA,19,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,taken from January to May,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Earg.2,season,Eucinostomus argenteus,66,53,0.8,13,0.2,NA,NA,NA,NA,NA,19,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,taken from June to December,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Earg.3,size,Eucinostomus argenteus,8,8,1,0,0,NA,NA,NA,very young,NA,9,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Earg.4,size,Eucinostomus argenteus,10,10,1,0,0,NA,NA,NA,very young,NA,15,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Dplu.1,none,Diapterus plumieri,14,12,0.86,2,0.14,NA,NA,NA,NA,NA,35,172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,"taken from stations A and C in Jan., May, July, Aug., and Nov. 1968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Dplu.2,raw,Diapterus plumieri,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Dplu.3,raw,Diapterus plumieri,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.1,size,Sciaenops ocellata,7,7,1,0,0,NA,NA,NA,NA,NA,308,403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.2,size,Sciaenops ocellata,47,NA,NA,NA,NA,NA,NA,NA,larval,SL,6,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.3,raw,Sciaenops ocellata,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.4,size,Sciaenops ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.5,raw,Sciaenops ocellata,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.6,raw,Sciaenops ocellata,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.7,size,Sciaenops ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.8,size,Sciaenops ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Soce.9,size,Sciaenops ocellata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cneb.1,location,Cynoscion nebulosus,11,8,0.73,3,0.27,NA,NA,NA,NA,NA,92,382,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,taken at the mangrove pond station between Oct. and March,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cneb.2,location,Cynoscion nebulosus,24,24,1,0,0,NA,NA,NA,juvenile,NA,68,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,from Whitewater Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bchr.1,none,Bairdiella chrysura,34,34,1,0,0,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bchr.2,size,Bairdiella chrysura,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,127,181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,taken at the mangrove pond station,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bchr.3,location,Bairdiella chrysura,NA,NA,NA,NA,NA,NA,NA,NA,larval,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,from the North River from April to September,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bchr.4,season,Bairdiella chrysura,14,14,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,examined during a saline period,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lrho.1,location,Lagodon rhomboides,12,12,1,0,0,NA,NA,NA,NA,NA,39,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from the island station in June and September,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lrho.2,location,Lagodon rhomboides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from Whitewater Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Apro.1,size,Archosargus probatocephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Apro.2,size,Archosargus probatocephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,grassbeds of Whitewater Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Apro.3,season,Archosargus probatocephalus,69,64,0.93,5,0.07,NA,NA,NA,NA,NA,48,267,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,collected at stations A and C - dry season (Jan. - May),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Apro.4,season,Archosargus probatocephalus,52,50,0.96,2,0.04,NA,NA,NA,NA,NA,48,267,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,collected at stations A and C - wet season (June - Dec.),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Lcyp.1,none,Lophogobius cyprinoides,174,154,0.89,20,0.11,NA,NA,NA,NA,NA,24,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Grob.1,size,Gobiosoma robustum,66,66,1,0,0,NA,NA,NA,NA,NA,15,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Grob.2,size,Gobiosoma robustum,6,6,1,0,0,NA,NA,NA,NA,NA,7,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mgul.1,none,Microgobius gulosus,18,18,1,0,0,NA,NA,NA,NA,NA,18,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,collected throughout the year at stations A and C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bsop.1,none,Bathygobius soporator,10,5,0.5,5,0.5,NA,NA,NA,NA,NA,38,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,taken from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bsop.2,none,Bathygobius soporator,1,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,taken from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Sbar.1,none,Sphyraena barracuda,6,6,1,0,0,NA,NA,NA,NA,NA,135,369,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,3,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mber.1,size/diel,Menidia beryllina,122,34,0.28,88,0.72,NA,NA,NA,NA,NA,35,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,NA,taken during daylight hours during the dry season,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mber.2,size/diel,Menidia beryllina,28,28,1,0,0,NA,NA,NA,NA,NA,35,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,taken at night during the dry season,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mber.3,size/diel,Menidia beryllina,156,38,0.24,118,0.76,NA,NA,NA,NA,NA,31,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,taken during daylight hours during the wet season,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mber.4,size/diel,Menidia beryllina,9,8,0.89,1,0.11,NA,NA,NA,NA,NA,31,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,taken at night during the wet season,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mber.5,size,Menidia beryllina,36,36,1,0,0,NA,NA,NA,NA,NA,12,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,"collected at station A during May and June, 1968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Tmac.1,none,Trinectes maculatus,8,2,0.25,6,0.75,NA,NA,NA,NA,NA,14,110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Tmac.2,life history,Trinectes maculatus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Alin.1,none,Achirus lineatus,6,2,0.33,4,0.67,NA,NA,NA,NA,NA,32,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Alin.2,life history,Achirus lineatus,NA,NA,NA,NA,NA,NA,NA,NA,juvenile,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Gstr.1,none,Gobiesox strumosus,18,18,1,0,0,NA,NA,NA,NA,NA,10,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Obet.1,size,Opsanus beta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,18,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Obet.2,size,Opsanus beta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0,NA,from the North River,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Npel.1,none,Neris pelagica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Nsuc.1,none,Neanthes succinea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cvari.1,none,Cyclaspis varians,15,15,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Limn.1,none,Limnoria sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Acar.1,none,Acartia sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Labi.1,none,Labidocera sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cycl.1,none,Cyclops sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cleuc.1,none,Congeria leucophaeata,84,84,1,0,0,NA,NA,NA,NA,NA,6,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,collected from stations A and B between July and December,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Bexu.1,none,Brachidontes exustus,63,63,1,0,0,NA,NA,NA,NA,NA,4,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,collected from stations A and B between January and July ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Pint.1,none,Palaemontes intermedius,229,229,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,bucal cavity contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Ppal.1,none,Palaemontes paludosus,52,52,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,bucal cavity contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Pduo.1,none,Penaeus duorarum,18,18,1,0,0,NA,NA,NA,NA,CL,6,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,12,0,NA,"collected from station A in Sept., Nov., and Dec. 1968",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Ahet.1,none,Alpheus heterochaelis,24,24,1,0,0,NA,NA,NA,NA,TL,22,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,from stations A and B throughout the year,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Csap.1,none,Callinectes sapidus,8,8,1,0,0,NA,NA,NA,NA,CW,122,180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Rhar.1,none,Rhithropanopeus harrisii,141,141,1,0,0,NA,NA,NA,NA,CW,3,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0,NA,bucal cavity contents,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mnit.1,diel,Melita nitida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,daytime feeding,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Mnit.2,diel,Melita nitida,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,NA,night time feeding,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Gbon.1,none,Grandidierella bonnieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Tbow.1,none,Taphromysis bowmani,120,120,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,collected at stations A and B throughout the year,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Malm.1,none,Mysidopsis almyra,153,153,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0,NA,collected at stations A and B throughout the year,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Chir.1,none,Chironomus sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-4o,Cric.1,none,Cricoctopus sp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 25m,Apro.1,none,Archosargus probatocephalus,47,42,0.8936,5,0.1064,NA,NA,NA,NA,SL,15,172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 25m,Mund.1,none,Micropogonias undulatus,199,199,1,0,0,NA,NA,NA,NA,SL,19,196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 25m,Amit.1,none,Anchoa mitchilli,52,47,0.9038,5,0.0962,NA,NA,NA,NA,SL,28,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
