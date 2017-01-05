@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GoMexSI/interaction-data.svg)](https://travis-ci.org/GoMexSI/interaction-data) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=http://gomexsi.tamucc.edu)](http://globalbioticinteractions.org/?accordingTo=http://gomexsi.tamucc.edu) 
+
 This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
