@@ -1,8 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "citation": "http://gomexsi.tamucc.edu",
-  "format": "gomexsi",
-  "resources": {
-    "https://cmecscatalog.org/cmecs/documents/cmecs4.accdb": "cmecs4.accdb"
-  }
+  "format": "gomexsi"
 }
